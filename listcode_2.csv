@@ -1,0 +1,5064 @@
+psoc_code,occupation_title
+1111,legislators
+1111,city/municipal councilor
+1111,congressman
+1111,member of the barangay council (sangguniang pambarangay)
+1111,member of the provincial board (sangguniang panlalawigan)
+1111,senator
+1111,sangguniang bayan member
+1111,sangguniang kabataan
+1111,municipal councilor
+1111,sanguniang kabataan
+1111,sk federation president
+1111,barangay council
+1111,provincial board member
+1111,city councilor
+1111,sanguniang bayan
+1111,legislative researcher
+1112,senior government officials
+1112,administrator/deputy administrator
+1112,ambassador
+1112,attache
+1112,city administrator
+1112,consul general
+1112,director general/deputy director general/ assistant director general
+1112,executive director/deputy executive director
+1112,government chief of staff
+1112,government civil registrar
+1112,government commission chairperson
+1112,government director/assistant director
+1112,governor/deputy governor of the bangko sentral ng pilipinas
+1112,governor/vice governor
+1112,mayor/vice mayor
+1112,national treasurer
+1112,ombudsman
+1112,police inspector-general
+1112,postmaster general
+1112,president/vice president of the republic of the philippines
+1112,solicitor general/associate solicitor general
+1112,police chief constable
+1112,police commissioner
+1112,municipal civil registrar
+1112,deputy administrator
+1112,public consultant
+1112,supervising administrative officer
+1112,municipal vice mayor
+1112,municipal mayor
+1112,vice mayor
+1113,traditional chiefs and head of villages
+1113,barangay chairperson/captain
+1113,barangay kagawad
+1113,sangguniang kabataan (sk) chairperson
+1113,tribe chieftain/head
+1113,barangay captain
+1113,barangay chairman
+1113,sk chairman
+1113,sk chairperson
+1113,barangay councilor
+1113,sk councilor
+1113,sk kagawad
+1113,purok chairman
+1113,purok leader
+1113,indigenous people's mandatory rep (ipmr)
+1114,senior officials of special interest organization
+1114,economic-interest organization senior official
+1114,employers' organization director-general
+1114,employers' organization president
+1114,employers' organization secretary-general
+1114,employers' organization senior official
+1114,humanitarian organization senior official
+1114,labor organization senior official
+1114,political party leader
+1114,political party senior official
+1114,special-interest organization senior official
+1114,trade union chairperson
+1114,trade union president
+1114,trade union secretary-general
+1114,trade union senior official
+1120,managing directors and chief executives
+1120,chief operation officer
+1120,corporate director
+1120,corporation chief executive
+1120,managing director
+1120,regional manager
+1120,university chancellor
+1120,chief executive officer
+1120,acting general manager
+1120,company head
+1120,officer in-charge
+1120,assistant director
+1120,provincial science and technology directors
+1120,land management officer
+1120,consultant
+1120,office head
+1211,finance manager
+1211,accounting manager
+1211,administration manager
+1211,budgeting manager
+1211,company secretary
+1211,compensation manager
+1211,finance comptroller
+1211,investment manager
+1211,municipal budget officer
+1211,lending manager
+1211,department head dilg
+1211,admin manager
+1211,assistant manager
+1211,finance head
+1211,cooperative manager
+1211,accounting head
+1211,human resource managers
+1211,assistant training manager
+1212,benefits/rewards manager
+1212,employee welfare manager
+1212,industrial relations manager
+1212,labor relations manager
+1212,learning and development manager
+1212,personnel/human resource manager
+1212,recruitment manager
+1212,training manager
+1212,human resources manager
+1212,human resource head
+1212,human resource personnel
+1212,human resource specialist
+1212,human resource
+1212,equipment service supervisor
+1213,policy and planning managers
+1213,corporate compliance manager
+1213,corporate planning manager
+1213,corporate quality assurance manager
+1213,corporate services manager
+1213,policy manager
+1213,strategic planning manager
+1213,planning manager
+1213,surveying office manager
+1219,business services and administration managers not elsewhere classified
+1219,administrative services manager
+1219,business services manager
+1219,charging facility manager
+1219,cleaning manager
+1219,cleaning services manager
+1219,cleaning services managing-proprietor
+1219,corporate service manager
+1219,facilities manager
+1219,personal care manager
+1219,personal care services managing-proprietor
+1219,safety manager
+1219,utility manager
+1219,properties owner
+1219,business proprietor
+1219,house rental owner
+1219,spa manager
+1219,lessor-land owner
+1219,rental building owner
+1219,room for rent owner
+1219,lessor/landlord
+1219,rent owner
+1219,boarding house operator
+1219,carwash owner
+1219,rental chair owner
+1221,sales and marketing managers
+1221,consumer credit manager
+1221,customer services manager
+1221,marketing director
+1221,marketing manager
+1221,sales director
+1221,sales manager
+1221,store manager
+1221,telemarketing manager
+1221,branch assistant manager
+1221,customer credit manager
+1221,operation manager
+1221,marketing personnel
+1221,condo sales representative
+1221,marketing and sales agent
+1221,businessman
+1221,sales marketing
+1221,general manager
+1222,advertising and public relations managers
+1222,advertisement and promo assistant manager
+1222,advertising manager
+1222,advertising director
+1222,circulation manager
+1222,communication development manager
+1222,promotions department manager
+1222,public relations manager
+1223,research and development managers
+1223,product development manager
+1223,research and development manager
+1223,research manager
+1223,research project manager
+1223,education research specialist
+1223,school education research assistant
+1223,school university research associate
+1223,researcher
+1311,agricultural and forestry production managers
+1311,agricultural farm manager/overseers
+1311,agricultural farm manager
+1311,agricultural general manager
+1311,agricultural production and operations manager
+1311,chicken farm operations manager
+1311,forestry general manager
+1311,game fowl farm operations manager
+1311,livestock farm operations manager
+1311,plantation manager
+1311,poultry farm operations manager
+1311,ranch manager
+1311,palay farm owner
+1311,farm manager
+1311,root crops farm manager
+1311,farm owner
+1312,aquaculture and fisheries production managers
+1312,aquaculture production manager
+1312,fishing general manager
+1312,fishing operations manager
+1312,fishing shore captain
+1312,trawler manager
+1312,fish pond manager
+1312,fish pond owner
+1312,deep sea fishing operator
+1312,fishing boat operator
+1321,manufacturing managers
+1321,food production managers
+1321,manufacturer
+1321,manufacturing general manager
+1321,manufacturing manager
+1321,production and operations / manufacturing manager
+1321,manufacturing production manager
+1321,welding shop owner
+1321,water refilling station owner
+1321,bakery owner
+1321,furniture shop owner
+1321,rice milling manager
+1321,production manager
+1321,delicacies manufacturer
+1321,pastries vendor
+1321,senior sales manager
+1321,carton box maker
+1321,printing service owner
+1321,wholesale of rags
+1321,furniture business owner
+1321,water refilling manager
+1321,lamber yard manager
+1322,mining managers
+1322,mine manager
+1322,mining equipment manager
+1322,mining production manager
+1322,oil and gas exploration manager
+1322,oil and gas extraction production manager
+1322,quarry manager
+1322,quarry production manager
+1322,sand and gravel
+1322,mining manager owner
+1322,gold mining manager owner
+1322,gold mining owner
+1323,construction managers
+1323,civil engineering project manager
+1323,construction manager
+1323,construction project manager
+1323,construction site manager
+1323,demolition manager
+1323,project builder
+1323,electrical contractor
+1323,aluminum contractor manager
+1323,finance manager construction
+1323,construction supply owner
+1323,branch construction manager
+1323,heavy equipment & cons materials owner
+1323,construction contractor
+1323,building construction contractor assistant
+1323,construction worker
+1324,"supply, distribution and related managers"
+1324,assistant shipping manager
+1324,bus station manager
+1324,distribution manager
+1324,electric vehicle fleet manager
+1324,freight forwarding manager
+1324,imports and exports manager
+1324,logistics manager
+1324,material resources manager
+1324,port captain
+1324,public utility vehicle (puv) operations manager
+1324,purchasing manager
+1324,railway station manager
+1324,railway station master
+1324,shipping manager
+1324,supply chain manager
+1324,supply manager
+1324,transport general manager
+1324,transport network vehicle service (tnvs) vehicle manager
+1324,transport operations manager
+1324,truck-for-hire operations manager
+1324,warehouse manager
+1324,hauling and trucking svcs manager
+1324,tricycle operator
+1324,van operator
+1324,bangka owner
+1324,puv operator
+1324,medicine distributor
+1324,supply assistant manager
+1324,trucking operator
+1324,operational manager
+1324,procurement manager
+1324,delivery manager
+1330,information and communications technology service managers
+1330,application development manager
+1330,chief information officer
+1330,data operations manager
+1330,data processing manager
+1330,electronic data processing (edp) manager
+1330,ict development manager
+1330,information and communication technology manager
+1330,information systems director
+1330,information technology manager
+1330,internet service provider manager
+1330,management information system (mis) manager
+1330,network manager
+1330,telecommunications services manager
+1330,intermet cafe attendant
+1330,information security analyst
+1330,computer tech/owner
+1330,call center manager
+1330,it engineer
+1330,computer shop owner
+1341,child care service managers
+1341,child care center manager
+1342,health service managers
+1342,chief public health officer
+1342,clinical director
+1342,community health care coordinator
+1342,director of nursing
+1342,health facility administrator
+1342,hospital matron
+1342,medical administrator
+1342,health service manager
+1342,private clinic owner
+1342,content manager shout out digital
+1342,dentist / own clinic
+1342,health manager
+1343,aged care service managers
+1343,aged care home director
+1343,community aged care coordinator
+1343,nursing home director
+1343,retirement village coordinator
+1343,aged care service manager
+1344,social welfare managers
+1344,community center manager
+1344,family services manager
+1344,housing services manager
+1344,welfare center manager
+1345,education managers
+1345,assistant principal
+1345,chief education supervisor
+1345,city school superintendent
+1345,college administrator
+1345,college dean
+1345,college director
+1345,division school superintendent
+1345,head teacher
+1345,public school district supervisor
+1345,school administrator
+1345,school president
+1345,school principal
+1345,school supervisor
+1345,universities and colleges president
+1345,dean
+1345,higher education faculty head
+1345,school division superintendent
+1345,head teacher iii
+1345,public school principal elementary
+1345,associate dean
+1345,school principal 4
+1345,master teacher 3
+1345,district school supervisor
+1345,school principal ii
+1345,school vice president
+1345,public high school principal
+1345,school head principal ii
+1346,financial and insurance services branch managers
+1346,branch manager
+1346,bank manager
+1346,credit union manager
+1346,financial institution branch manager
+1346,insurance agency branch manager
+1346,insurance area manager
+1346,insurance underwriting and claims branch manager
+1346,money changing branch manager
+1346,insurance agency manager
+1346,insurance company manager
+1346,card bank manager
+1346,money changer owner
+1346,social insurance ii
+1346,pawnshop owner
+1346,broker
+1349,professional services managers not elsewhere classified
+1349,archives manager
+1349,art gallery manager
+1349,correctional services manager
+1349,legal service manager
+1349,library manager
+1349,museum manager
+1349,police superintendent
+1349,prison governor
+1349,security agency owner
+1411,hotel managers
+1411,hotel manager
+1411,hostel manager
+1411,motel manager
+1411,resort owner and manager
+1411,resort manager
+1411,resort hotel owner
+1411,landlord
+1411,beach owner
+1412,restaurant managers
+1412,cafe manager
+1412,catering services manager
+1412,restaurant manager
+1412,canteen manager
+1412,restaurant supervisor
+1412,catering and event owner
+1412,catering services owner
+1412,coffee shop owner
+1412,restaurants managers
+1412,area manager
+1412,carinderia owner
+1412,cafe restaurant manager
+1412,food and beverages manager
+1412,resto bar owner
+1412,canteen owner
+1420,retail and wholesale trade managers
+1420,commissary manager
+1420,grocery manager
+1420,buy and sell grains and corn
+1420,retail trade manager
+1420,shop manager
+1420,specialized store manager
+1420,supermarket manager
+1420,wholesale trade manager
+1420,hog buy and sell
+1420,palay buy and sell manager
+1420,medical pharma supplier manager
+1420,tobacco company agent
+1420,drugstore owner
+1420,junk shop owner
+1420,coconut buyer
+1420,hardware owner
+1420,grocery store owner
+1420,motorshop owner
+1420,battery shop owner
+1420,fish wholesaler
+1420,shop owner
+1420,buy and sell crab and shell
+1420,gold buyer
+1420,native delicacies owner
+1420,junkshop owner
+1420,wholesale manager
+1420,proprietor
+1420,wholesale trade of fresh fish
+1420,rice seller
+1420,retail sale manager
+1420,pharmacy owner
+1420,merchandise owner
+1420,ukay ukay retailer
+1420,gasoline station manager
+1420,grocery owner
+1420,owner of guava costruction
+1420,selling of cars
+1431,"sports, recreation and cultural centre managers"
+1431,amusement and theme park manager
+1431,billiards or pool hall manager
+1431,casino manager
+1431,cinema manager
+1431,concert hall manager
+1431,dance studio manager
+1431,funfair (peryahan) operations manager
+1431,leisure center manager
+1431,lottery outlet manager
+1431,riding school manager
+1431,sports center manager
+1431,theater hall manager
+1431,theme park manager
+1431,billiard hall owner
+1431,resort owner
+1431,manager of beach view resort
+1431,amusement assist manager
+1431,gym manager
+1439,services managers not elsewhere classified
+1439,auto repair shop manager
+1439,barbershop manager
+1439,beauty parlor/salon manager
+1439,camp site manager
+1439,caravan park manager
+1439,computer repair shop manager
+1439,computer/internet shop manager
+1439,conference center manager
+1439,contact center manager
+1439,laundry shop manager
+1439,shopping center manager
+1439,spa and wellness center manager
+1439,travel agency manager
+1439,landlady
+1439,renting of tables and chair
+1439,owner computer shop repair
+1439,appliances repair shop owner
+1439,van and motorcycle for rent owner
+1439,salon owner
+1439,skin care clinic owner
+1439,motorcycle repair shop owner
+1439,auto shop owner
+1439,owner of renting sound system
+1439,travel agency owner
+2111,physicists and astronomers
+2111,astronomer
+2111,astronomical scientist
+2111,medical physicist
+2111,nuclear physicist
+2111,physicist
+2112,meteorologists
+2112,climatologist
+2112,hydrometeorologist
+2112,meteorological scientist
+2112,meteorologist
+2112,weather forecaster
+2112,weather specialist
+2113,chemists
+2113,analytical chemist
+2113,application chemist
+2113,food chemist
+2113,forensic chemist
+2113,laboratory chemist
+2113,pharmaceutical chemist
+2113,physical chemist
+2113,quality control chemist
+2113,research and development chemist
+2114,geologists and geophysicists
+2114,geological oceanographer
+2114,geological engineer
+2114,geologist
+2114,geophysical oceanographer
+2114,geophysical scientist
+2114,geophysicist
+2114,geothermal engineer
+2114,hydrogeologist
+2114,hydrographer
+2114,hydrologist
+2114,mineral analyst
+2114,mineralogist
+2114,petrologist
+2114,seismologist
+2114,volcanologist
+2114,geoscientist
+2119,other physical and earth science professionals
+2121,mathematicians
+2121,operations research analyst
+2121,mathematician
+2122,statisticians
+2122,biometrician
+2122,demographer
+2122,statistician
+2122,mathematical statistician
+2123,actuaries
+2123,actuarial analyst
+2123,actuarial consultant
+2123,actuarial researcher
+2123,actuarial specialist
+2123,insurance actuary
+2123,actuary
+2124,data scientists
+2124,big data research scientist
+2124,data science specialist
+2124,data scientist
+2124,predictive analytics specialists
+2131,"biologists, botanists, zoologists and related scientists"
+2131,aquatic biologist
+2131,bacteriologist
+2131,biochemist
+2131,biochemistry technologist
+2131,bioinformatics specialist
+2131,biologist
+2131,biomedical officer
+2131,biomedical researcher
+2131,biophysicist
+2131,biotechnologist
+2131,botanist
+2131,cell geneticist
+2131,entomologist
+2131,epidemiologist
+2131,genomicist
+2131,marine biologist
+2131,microbiologist
+2131,microbiology technologist
+2131,molecular biologist
+2131,molecular geneticist
+2131,mycologist
+2131,nanotechnologist
+2131,parasitologist
+2131,pharmacologist
+2131,physiologist
+2131,plant entomologist
+2131,plant geneticist
+2131,plants and animals taxonomist
+2131,veterinary microbiologist
+2131,virologist
+2131,zoologist
+2132,"farming, forestry and fisheries advisers"
+2132,agriculturist
+2132,agroforester
+2132,agronomist
+2132,aquaculturist
+2132,farming adviser
+2132,fisheries adviser
+2132,forester
+2132,forestry adviser
+2132,forestry scientist
+2132,horticultural scientist
+2132,silviculturist
+2132,soil scientist
+2133,environmental protection professionals
+2133,air pollution analyst
+2133,conservation officer
+2133,conservation scientist
+2133,ecologist
+2133,environment quality controller
+2133,environmental adviser
+2133,environmental auditor
+2133,environmental consultant
+2133,environmental impact assessment specialist
+2133,environmental planner
+2133,environmental research scientist
+2133,environmental scientist
+2133,environmentalist
+2133,water quality analyst
+2133,environmental protection professional
+2133,municipal environment and natural resources office (menro) officer
+2133,environmental researcher
+2133,province environmental officer
+2141,industrial and production engineers
+2141,industrial and production plant engineer
+2141,industrial and production quality control engineer
+2141,industrial design engineer
+2141,industrial efficiency engineer
+2141,industrial engineer
+2141,methods engineer
+2141,production engineer
+2141,production planning engineer
+2141,time and motion engineer
+2141,quality control engineer
+2141,manufacturing engineer
+2141,contractor
+2142,civil engineers
+2142,civil engineer
+2142,construction engineer
+2142,construction site engineer
+2142,geotechnical engineer
+2142,hydraulics engineer
+2142,soil mechanics engineer
+2142,structural engineer
+2142,transportation engineer
+2142,municipal engineer
+2142,project engineer
+2142,building construction engineer
+2142,road planner
+2142,building engineer
+2142,road construction engineer
+2142,project construction engineer
+2142,public highway engineer
+2142,assistant director engineer
+2142,engineer site
+2143,environmental engineers
+2143,air pollution control engineer
+2143,environmental analyst
+2143,environmental engineer
+2143,environmental remediation specialist
+2143,wastewater process engineer
+2144,mechanical engineers
+2144,aeronautical engineer
+2144,aerospace engineer
+2144,agricultural machines engineer
+2144,automotive engineer
+2144,biosystems engineer
+2144,engine designer
+2144,"heating, ventilation and aircondition engineer"
+2144,industrial machinery and tools engineer
+2144,machinery and equipment maintenance engineer
+2144,marine engineer
+2144,mechanical engineer
+2144,power plant engineer
+2144,water work head
+2144,maintenance engineer
+2145,chemical engineers
+2145,chemical engineer
+2145,chemical process engineer
+2145,fuel technologist
+2145,petroleum and natural gas chemical engineer
+2145,plastic technologist
+2145,refinery process engineer
+2146,"mining engineers, metallurgists and related professionals"
+2146,coal mining engineer
+2146,extractive metallurgist
+2146,metal mining engineer
+2146,metallurgical engineer
+2146,metallurgist
+2146,mining engineer
+2146,petroleum and natural gas extraction engineer
+2149,engineering professionals not elsewhere classified
+2149,biomedical engineer
+2149,ceramics engineer
+2149,explosive ordinance engineer
+2149,marine salvage engineer
+2149,materials engineer
+2149,optical engineer
+2149,quantity surveyor
+2149,reservoir and drilling engineer
+2149,safety engineer
+2149,sanitary engineer
+2149,satellite engineer
+2149,test engineer
+2149,nuclear power generation engineer
+2151,electrical engineers
+2151,electric power generation engineer
+2151,electrical engineer
+2151,electrical failure analysis engineer
+2151,electromechanical engineer
+2151,photovoltaic (pv) system designer
+2151,power distribution and transmission engineer
+2151,plant engineer
+2152,computer hardware engineer
+2152,electronic product test engineer
+2152,electronics engineer
+2152,electronics engineering technologist
+2152,instrumentation engineer
+2152,electronics board engineer
+2153,telecommunications engineers
+2153,broadcast engineer
+2153,radio engineer
+2153,telecommunications engineer
+2153,telecommunications engineering technologist
+2153,telecommunications contractor
+2161,building architects
+2161,building architect
+2161,interior architect
+2161,junior architect
+2161,building architect planner
+2161,architect
+2162,landscape architects
+2162,landscape architect
+2163,product and garment designers
+2163,costume designer
+2163,fashion designer
+2163,garment designer
+2163,industrial designer
+2163,jewelry designer
+2164,town and traffic planners
+2164,city planner
+2164,land planner
+2164,town planner
+2164,traffic planner
+2164,urban planner
+2165,cartographer and surveyors
+2165,aerial surveyor
+2165,cadastral surveyor
+2165,cartographer
+2165,geodesist
+2165,hydrographic surveyor
+2165,land surveyor
+2165,mine surveyor
+2165,photogrammetrist
+2165,surveyor
+2166,raphic and multimedia designers
+2166,2d animators
+2166,2d designers
+2166,3d animators
+2166,3d designers
+2166,animator
+2166,caricature artists
+2166,computer games designer
+2166,digital artist
+2166,illustrator
+2166,infographic designers
+2166,multimedia designer
+2166,publication designer
+2166,website designer
+2166,graphic designer
+2166,digital designer
+2166,anime animator
+2211,generalist medical practitioners
+2211,district medical doctor - therapist
+2211,family medical practitioner
+2211,medical doctor
+2211,medical officer
+2211,medical practitioner
+2211,physician
+2211,primary health care physician
+2211,resident medical officer specializing in general practice
+2211,general practitioner
+2211,resident medical officer specializing in general practitioner
+2211,resident doctor
+2212,specialist medical practitioners
+2212,allergologist
+2212,anesthesiologist
+2212,anesthetist
+2212,cardiologist
+2212,dermatologist
+2212,"ear, nose, and throat (ent) physician"
+2212,emergency medicine specialist
+2212,emergency physician
+2212,forensic pathologist
+2212,gynecologist
+2212,infectious diseases specialist
+2212,internal medicine physician
+2212,medical pathologist
+2212,medical specialist practitioner
+2212,nephrologist
+2212,neurologist
+2212,neurosurgeon
+2212,obstetrician
+2212,oncologist
+2212,ophthalmologist
+2212,pathologist
+2212,pediatrician
+2212,preventive medicine specialist
+2212,psychiatrist
+2212,radiologist
+2212,resident medical officer in specialist training
+2212,rheumatologist
+2212,surgeon
+2212,urologist
+2212,nuclear medicine specialist physician
+2212,specialist medical practitioner in public health
+2212,"autopsy, biopsy grader"
+2212,obstetrician and gynecologist (ob-gyn)
+2221,nursing professional
+2221,anesthetic nurse
+2221,audiometry nurse
+2221,cardiovascular nurse
+2221,chemotherapy nurse
+2221,clinical consultant nurse
+2221,clinical nurse
+2221,company nurse
+2221,coronary nurse
+2221,cosmetic nurse
+2221,dental nurse
+2221,dermatological nurse
+2221,dialysis nurse
+2221,district nurse
+2221,emergency nurse
+2221,endocrinology nurse
+2221,ent nurse
+2221,fertility nurse
+2221,geriatric nurse
+2221,hematology nurse
+2221,hemodialysis nurse
+2221,home health care nurse
+2221,independent nurse practitioner
+2221,industrial nurse
+2221,intensive care unit nurse
+2221,labor and delivery nurse
+2221,medical ward nurse
+2221,medico-legal nurse
+2221,neonatal nurse
+2221,neurology/neurosurgeon nurse
+2221,nurse educator
+2221,nurse practitioner
+2221,obstetrics and gynecology (ob-gyn) nurse
+2221,occupational health nurse
+2221,oncology nurse
+2221,ophthalmology nurse
+2221,orthopedic nurse
+2221,pain clinic and oncology nurse
+2221,paramedic nurse
+2221,pediatric nurse
+2221,psychiatric nurse
+2221,public health nurse
+2221,pulmonary/respiratory nurse
+2221,radiation therapy nurse
+2221,radiotherapeutic nurse
+2221,school nurse
+2221,surgical nurse
+2221,urology nurse
+2221,clinical nurse consultant
+2221,professional nurse
+2221,specialist nurse
+2221,registered nurse
+2221,head nurse
+2221,rural health unit nurse
+2221,public hospital nurse
+2221,hospital nurse
+2221,ward nurse
+2221,private nurse
+2221,staff nurse
+2222,midwifery professionals
+2222,professional midwife
+2230,traditional and complementary medicine professionals
+2230,acupuncturist
+2230,ayuverdic practitioner
+2230,chinese herbal medicine practitioner
+2230,homeopath
+2230,naturopath
+2230,unani practitioner
+2240,paramedical practitioners
+2240,advanced care paramedic
+2240,feldsher
+2240,paramedic clinical officer
+2240,primary care paramedic
+2240,surgical technician
+2240,clinical officer
+2240,paramedical clinical officer
+2240,paramedical practitioner
+2250,veterinarians
+2250,animal nutritionist
+2250,animal pathologist
+2250,public health veterinarian
+2250,veterinarian
+2250,veterinary epidemiologist
+2250,veterinary intern
+2250,veterinary surgeon
+2261,dentists
+2261,dental practitioner
+2261,dental surgeon
+2261,dentist
+2261,endodontist
+2261,oral and maxillofacial surgeon
+2261,oral pathologist
+2261,orthodontist
+2261,pedodontist
+2261,periodontist
+2261,prosthodontist
+2262,pharmacists
+2262,dispensing chemist
+2262,hospital pharmacist
+2262,industrial pharmacist
+2262,pharmacist
+2262,retail pharmacist
+2262,registered pharmacist
+2263,environmental and occupational health and hygiene professionals
+2263,environmental health officer
+2263,occupational health and safety adviser
+2263,occupational hygienist
+2263,radiation protection expert
+2264,physiotherapist
+2264,geriatric physical therapist
+2264,orthopedic physical therapist
+2264,pediatric physical therapist
+2264,physical therapist
+2265,dieticians and nutritionist
+2265,clinical dietician
+2265,dietetic consultant
+2265,dietician
+2265,food and nutrition specialist
+2265,food service dietician
+2265,nutritionist
+2265,public health nutritionist
+2265,sports nutritionist
+2265,therapeutic/clinic dietician
+2266,audiologists and speech therapist
+2266,audiologist
+2266,language therapist
+2266,speech pathologist
+2266,speech therapist
+2267,optometrists and opthalmic opticians
+2267,ophthalmic optician
+2267,optometrist
+2267,orthoptist
+2269,health professionals not elsewhere classified
+2269,arts therapist
+2269,dance and movement therapist
+2269,occupational therapist
+2269,podiatrist
+2269,pulmonary or respiratory therapist
+2269,recreational therapist
+2269,chiropractor
+2269,osteopath
+2310,university and higher education teachers
+2310,assistant professor
+2310,college professor
+2310,information technology professor
+2310,professor
+2310,university lecturer
+2310,college instructor
+2310,higher education teacher
+2310,university instructor
+2310,college private teacher
+2310,college teacher
+2310,head professor
+2310,lecturer
+2310,instructor
+2320,vocational education teachers
+2320,automotive technology instructor
+2320,cosmetology instructor
+2320,vocational education teacher
+2320,technical vocational teacher
+2330,secondary education teachers
+2330,high school teacher
+2330,secondary education teacher
+2330,secondary school teacher
+2330,public secondary teacher
+2330,private secondary teacher
+2330,public high school teacher
+2330,general secondary teacher
+2330,senior high school teacher
+2330,online secondary teacher
+2341,primary school teachers
+2341,primary school teacher
+2341,elementary teacher
+2341,elementary public school teacher
+2341,elementary private school teacher
+2342,early childhood educators
+2342,early childhood educator
+2342,kindergarten teacher
+2342,elementary education teacher
+2342,pre-school teacher
+2342,daycare teacher
+2342,child development worker
+2342,nursery school teacher
+2351,education methods specialists
+2351,audio-visual teaching aids specialist
+2351,curriculum coordinator
+2351,curriculum developer
+2351,education methods adviser
+2351,education methods specialist
+2351,school inspector
+2351,teaching aids specialist
+2352,special need teachers
+2352,learning disabilities special education teacher
+2352,learning support teacher
+2352,remedial teacher
+2352,teacher for the mentally handicapped
+2352,teacher for the physically handicapped
+2352,teacher of gifted children
+2352,teacher of the hearing impaired
+2352,teacher of the sight impaired
+2352,private special education (sped) teacher
+2352,alternative learning school (als) teacher
+2353,other language teachers
+2353,intensive language teacher
+2353,language researcher
+2353,migrant education teacher
+2353,practical language teacher
+2353,second language teacher
+2353,english as sedcond language (esl) teacher
+2353,online english teacher
+2353,virtual tutor
+2353,arabic teacher
+2354,other music teachers
+2354,guitar teacher
+2354,music teacher
+2354,piano teacher
+2354,voice teacher
+2354,private music teacher
+2355,other arts teachers
+2355,cultural art teacher (instructor)
+2355,dance instructor
+2355,dance teacher
+2355,drama teacher
+2355,painting teacher
+2355,sculpture teacher
+2356,information technology trainers
+2356,computer trainer
+2356,software trainer
+2359,teaching professionals not elsewhere classified
+2359,adult literacy teacher
+2359,literacy tutor
+2359,mathematics coach
+2359,professional tutor
+2359,school counselor
+2359,school counsellor
+2359,student advisor
+2359,private tutor
+2359,english tutor
+2359,online tutor
+2359,tutor
+2359,review director
+2411,accountants
+2411,accountant
+2411,audit examiner
+2411,auditor
+2411,bank accountant
+2411,chartered accountant
+2411,cost accountant
+2411,financial accountant
+2411,financial controller
+2411,management accountant
+2411,tax accountant
+2411,school accountant
+2411,chief accountant
+2411,state auditor
+2411,cooperative auditor
+2411,revenue officer
+2412,financial and investment advisers
+2412,estate planner
+2412,financial adviser
+2412,financial planner
+2412,investment adviser
+2413,financial analyst
+2413,bond analyst
+2413,budget analyst
+2413,equity research analyst
+2413,financial modelers
+2413,fiscal analyst
+2413,investment analyst
+2413,securities consultant
+2413,municipal financial analyst
+2413,sales analyst
+2413,risk management analyst
+2421,management and organization analyst
+2421,business consultant
+2421,management consultant
+2421,organization and methods analyst
+2422,policy administration professionals
+2422,intelligence officer
+2422,policy analyst
+2422,political adviser
+2423,personnel and careers professionals
+2423,careers adviser
+2423,human resource development specialist
+2423,human resources expert
+2423,industrial relations management specialist
+2423,job analyst
+2423,occupational analyst
+2423,outplacement consultant
+2423,personnel officer
+2423,personnel specialist
+2423,vocational guidance counsellor
+2424,training and staff development professionals
+2424,staff development officer
+2424,training officer
+2424,workforce development specialist
+2424,barangay training and development coordinator
+2424,technical education and skills development authority (tesda) professor
+2431,advertising and marketing professionals
+2431,advertising account executive
+2431,advertising specialist
+2431,market research analyst
+2431,marketing account executive
+2431,marketing consultant
+2431,marketing specialist
+2431,media production specialist
+2431,merchandising supervisor
+2431,sales promotion specialist
+2431,advertising copywriter
+2431,marketing professional
+2431,bank marketer
+2431,advertising coordinator
+2432,public relations professionals
+2432,press liaison officer
+2432,public relations copywriter
+2432,public relations officer
+2432,publicity agent
+2432,public information officer
+2433,technical and medical sale professionals
+2433,industrial products sales representative
+2433,medical and pharmaceutical products sales representative
+2433,technical sales representative (except ict)
+2433,medical sale representative
+2433,technical sales representative
+2433,medical representative agent
+2434,information and communications technology sale professionals
+2434,communications technology sales representative
+2434,computers sales representative
+2434,information and communications technology sales professional
+2434,information and communications technology sales representative
+2511,systems analysts
+2511,computer scientist
+2511,computer systems analyst
+2511,computer systems designer
+2511,it business analyst
+2511,it systems designer
+2511,systems consultant
+2511,business analyst (it)
+2511,network analyst
+2511,system analyst
+2511,it analyst
+2511,it specialist
+2511,system developer
+2511,search engine optimization analyst
+2511,fraud analyst
+2511,software consultant
+2512,software developers
+2512,artificial intelligence (ai) software developer
+2512,computer applications engineer
+2512,programmer analyst
+2512,software architect
+2512,software designer
+2512,software developer
+2512,software engineer
+2512,computer software designer
+2512,software programmer
+2513,web and multimedia developers
+2513,animation programmer
+2513,communications programmer
+2513,digital content developers
+2513,internet developer
+2513,multimedia developer
+2513,multimedia programmer
+2513,website architect
+2513,website developer
+2513,website game developers
+2513,web developer
+2513,web designer
+2513,game developer
+2514,applications programmers
+2514,applications programmer
+2514,programmer
+2513,computer programmer
+2519,software and applications developers and analyst not elsewhere classified
+2519,computers quality assurance analyst
+2519,software tester
+2521,database designers and administrators
+2521,data administrator
+2521,database administrator
+2521,database analyst
+2521,database architect
+2521,database designers
+2521,data analyst
+2522,systems administrators
+2522,computer systems administrator
+2522,network administrator
+2522,computers systems administrator
+2522,system administrator
+2523,computer network professionals
+2523,computers communication analyst
+2523,backend developer
+2529,database and network professionals not elsewhere classified
+2529,data miner
+2529,digital forensic specialist
+2529,ict security specialist
+2611,lawyers
+2611,attorney
+2611,lawyer
+2611,legal adviser
+2611,legal counsel
+2611,legal officer
+2611,prosecutor
+2611,public attorney
+2611,private attorney
+2612,judges
+2612,associate judge
+2612,chief justice
+2612,judge
+2612,magistrate
+2619,legal professionals not elsewhere classified
+2619,coroner
+2619,jurist (except lawyer or judge)
+2619,notary
+2621,archivists and curators
+2621,archivist
+2621,art gallery curator
+2621,museum curator
+2621,records manager
+2621,records officer
+2622,librarians and related information professionals
+2622,bibliographer
+2622,cataloguer
+2622,librarian
+2622,school librarian
+2631,economists
+2631,econometrician
+2631,economic adviser
+2631,economic analyst
+2631,economist
+2631,labor economist
+2631,microeconomist
+2632,"sociologists, anthropologists and related professionals"
+2632,anthropologist
+2632,archaeologist
+2632,criminologist
+2632,ethnologist
+2632,geographer
+2632,sociologist
+2633,"philosophers, historians and political scientis"
+2633,genealogist
+2633,historian
+2633,philosopher
+2633,political analyst
+2633,political scientist
+2634,psychologists
+2634,clinical psychologist
+2634,developmental psychologist
+2634,educational psychologist
+2634,organizational psychologist
+2634,psychologist
+2634,psychometrician
+2634,psychotherapist
+2634,sports psychologist
+2635,social work and counselling professionals
+2635,addictions counselor
+2635,bereavement counselor
+2635,child and youth counselor
+2635,counseling professionals
+2635,family counselor
+2635,marriage counselor
+2635,parole officer
+2635,probation officer
+2635,social welfare officer
+2635,social worker
+2635,women's welfare organizer
+2635,marriage counsellor
+2635,professional social worker
+2635,social worker officer
+2635,child labor community facilitator
+2635,municipal social worker
+2635,muicipal social work development officer
+2635,municipal social work officer
+2635,guidance counselor
+2636,religious professionals
+2636,chaplain
+2636,imam
+2636,missionary
+2636,priest
+2636,religion minister
+2636,bonze
+2636,pastor
+2636,poojari
+2636,rabbi
+2636,church minister
+2636,minister
+2636,church coordinator
+2641,authors and related writers
+2641,author
+2641,book author
+2641,book editor
+2641,creative writer
+2641,essayist
+2641,indexer
+2641,interactive media writer
+2641,literary writer
+2641,novelist
+2641,playwright
+2641,poet
+2641,scriptwriter
+2641,speech writer
+2641,technical communicator
+2641,technical writer
+2641,writer
+2642,journalists
+2642,columnist
+2642,critic
+2642,editor-in-chief
+2642,journalist
+2642,news analyst
+2642,news media copywriter
+2642,newspaper editor
+2642,newspaper reporter
+2642,sports writer
+2642,sub editor
+2642,tv/radio news producer
+2642,tv/radio news reporter
+2642,editor
+2642,content editor
+2643,"translators, interpreters and other linguists"
+2643,interpreter
+2643,lexicographer
+2643,philologist
+2643,sign language interpreter
+2643,subtitler
+2643,translator
+2643,translator-reviser
+2651,visual artists
+2651,artistic engraver and etcher
+2651,artistic painter
+2651,cartoonist
+2651,ceramic artist
+2651,graphic artist
+2651,murals painter
+2651,picture restorer
+2651,portrait painter
+2651,sculptor
+2651,sketch artist
+2651,visual artist
+2651,canvass painter
+2651,charcoal pinter
+2651,face painter
+2652,"musicians, singers and composers"
+2652,band leader
+2652,bassoonist
+2652,drummer
+2652,flutist
+2652,guitarist
+2652,instrumentalist
+2652,keyboardist
+2652,music arranger
+2652,music composer
+2652,music conductor
+2652,musician
+2652,nightclub musician
+2652,nightclub singer
+2652,orchestra conductor
+2652,pianist
+2652,saxophonist
+2652,singer
+2652,street musician
+2652,street singer
+2652,trumpeter
+2652,violinist
+2652,vocal group conductor
+2652,band vocalist
+2652,vocalist
+2652,band musician
+2653,dancers and choreographers
+2653,ballet dancer
+2653,belly dancer
+2653,choreographer
+2653,cultural dancer
+2653,nightclub dancer
+2653,professional dancer
+2653,street dancer
+2653,dancer
+2654,"film, stage and related directors and producers"
+2654,director of photography
+2654,documentary director
+2654,film editor
+2654,motion picture director
+2654,stage director
+2654,technical television or radio director
+2654,theater producer
+2654,theatrical director
+2654,film trailer editor
+2654,media director
+2655,actors
+2655,dubber or voice actor
+2655,mime artist
+2655,motion picture actor/actress
+2655,radio actor/actress
+2655,stage actor/actress
+2655,storyteller
+2655,theater actor/actress
+2655,actor/actress
+2656,"announcers on radio, television and other media"
+2656,"compere' (emcee, show host)"
+2656,news anchor
+2656,radio and television disc or video jockey
+2656,radio announcer
+2656,sports announcer
+2656,television announcer
+2659,creative and performing artists not elsewhere classified
+2659,acrobat
+2659,aerialist
+2659,clown
+2659,disc jockey (bar and clubs)
+2659,hypnotist
+2659,magician
+2659,puppeteer
+2659,stand-up comedian
+2659,ventriloquist
+2659,vlogger
+2659,live streamer
+3111,chemical and physical science technicians
+3111,chemistry technician
+3111,geology technician
+3111,meteorology technician
+3111,physics technician
+3111,chemical technician
+3112,civil engineering technicians
+3112,building inspector
+3112,building surveyor
+3112,civil engineering technician
+3112,clerk of works
+3112,fire inspector
+3112,fire prevention specialist
+3112,geotechnical technician
+3112,surveying technician
+3112,project technician aid
+3113,electrical engineering technicians
+3113,electric power transmission engineering technician
+3113,electric vehicle (ev) electrical service technician
+3113,electric vehicle supply equipment (evse) installation technician
+3113,electrical engineering technician
+3113,gas turbine electrical system technician
+3113,high voltage electrical engineering technician
+3113,photovoltaic (pv) system installation technician
+3113,photovoltaic (pv) system maintenance technician
+3113,airconditioner technician
+3113,electrical technician
+3113,electrical gas turbine monitoring technician
+3113,technician helper
+3114,electronics engineering technician
+3114,audio visual systems technician
+3114,electronics and communication equipment technician
+3114,electronics system technician
+3114,electronic technician
+3114,cellphone technician
+3115,mechanical engineering technicians
+3115,aeronautics engineering technician
+3115,aircraft maintenance technician
+3115,auto service technician
+3115,boiler technician
+3115,electric vehicle (ev) mechanical service technician
+3115,elevator technician
+3115,gas turbine mechanical system technician
+3115,industrial machinery and tools technician
+3115,maintenance technician
+3115,marine engineering technician
+3115,marine surveyor
+3115,mechanical engineering estimator
+3115,mechanical engineering technician
+3115,power plant technician
+3116,chemical engineering technicians
+3116,chemical engineering estimator
+3116,chemical engineering technician
+3116,chemical laboratory technician
+3116,petroleum engineering technician
+3117,mining and metallurgical technicians
+3117,extractive engineering technician
+3117,metallurgical technician
+3117,mine inspector
+3117,mines safety inspector
+3117,mining engineering technician
+3117,oil and gas wells acidizer
+3117,petroleum and natural gas extraction technician
+3118,draftsmen
+3118,draftsman
+3118,"draftsman, architectural"
+3118,"draftsman, cartographical"
+3118,"draftsman, electrical"
+3118,"draftsman, engineering/civil"
+3118,"draftsman, hydrographic"
+3118,"draftsman, lithographic"
+3118,"draftsman, marine"
+3118,"draftsman, mechanical"
+3118,"draftsman, structural"
+3118,technical illustrator
+3119,physical and engineering science technicians not elsewhere classified
+3119,electric vehicle (ev) test technician
+3119,fire investigator
+3119,forensic science technician
+3119,health physics technician
+3119,industrial efficiency engineering technician
+3119,instrument technician
+3119,motor vehicle inspection system (mvis) electric vehicle (ev) testing specialist
+3119,production engineering technician
+3119,quality control technician
+3119,quantity surveying technician
+3119,robotics technician
+3119,test technician
+3119,time and motion study technician
+3119,pipeline test technician
+3121,mining supervisors
+3121,mine deputy
+3121,mine foreman
+3121,mine supervisor
+3121,mine under-manager
+3121,quarry supervisor
+3121,mining supervisor
+3122,manufacturing supervisors
+3122,"area coordinator, manufacturing"
+3122,assembly supervisor
+3122,finishing supervisor
+3122,production line leader
+3122,"production supervisor, manufacturing"
+3122,manufacturing production supervisor
+3122,production team leader
+3123,construction supervisors
+3123,building construction supervisor
+3123,construction foreman
+3123,"site manager, construction"
+3123,construction supervisor
+3131,power production plant operators
+3131,distribution control operator
+3131,electric power plant operator
+3131,generating station operator
+3131,hydroelectric power plant operator
+3131,nuclear power plant operator
+3131,power system operator
+3131,renewable energy plant operator
+3131,solar power plant operator
+3131,power production plant operator
+3132,incinerator and water treatment plant operators
+3132,incinerator operator
+3132,liquid waste process operator
+3132,pumping-station operator
+3132,sewage plant operator
+3132,wastewater operator
+3132,water treatment plant operator
+3133,chemical processing plant controllers
+3133,chemical filtering and separating equipment operator
+3133,chemical heat treating plant operator
+3133,chemical process technician
+3133,chemical still and reactor operator
+3134,petroleum and natural gas refining plant operators
+3134,gas plant operator
+3134,paraffin plant operator
+3134,petroleum and natural gas refining blender operator
+3134,petroleum and natural gas refining still operator
+3134,petroleum process operator
+3134,refinery process technician
+3135,metal production process controllers
+3135,blast furnace operator
+3135,casting metal machine operator
+3135,central control caster
+3135,metal melting furnace operator
+3135,metal processing control operator
+3135,rolling mill control operator
+3135,metal production process controller
+3139,process control technicians not elsewhere classified
+3139,automated assembly line operator
+3139,industrial robot controller
+3139,paper and pulp panel board operator
+3139,paper pulp refinery operator
+3139,pulping control operator
+3139,pulping technician
+3141,life science technicians
+3141,bacteriology technician
+3141,biochemistry technician
+3141,herbarium technician
+3141,pharmacology technician
+3141,serology technician
+3141,tissue culture technician
+3141,zoology technician
+3141,life science technician
+3142,agricultural technicians
+3142,agronomy technician
+3142,aquaculture technician
+3142,dairy technician
+3142,farm demonstrator
+3142,field crop technician
+3142,fishery technician
+3142,herd tester
+3142,horticultural technician
+3142,orchard technician
+3142,pest control technician
+3142,plant propagation technician
+3142,poultry technician
+3142,prawn farm technician
+3142,rice farm technician
+3142,soil technician
+3142,sugar farm technician
+3143,forestry technicians
+3143,forestry technician
+3143,silviculture technician
+3151,ship's engineer
+3151,chief ship engineer
+3151,marine technical superintendent
+3151,ships' engineer
+3152,ship's deck officers and pilots
+3152,deck cadet
+3152,inland waterways ship master
+3152,marine deck superintendent
+3152,sea ship captain
+3152,sea ship master
+3152,ship chief mate
+3152,ship navigation officer
+3152,ship pilot
+3152,shipping operations officer
+3152,yacht skipper
+3153,aircraft pilots and related associate professionals
+3153,aerial crop sprayer
+3153,aircraft maintenance officer
+3153,aircraft pilot
+3153,astronaut
+3153,flight engineer
+3153,flight navigator
+3153,flying instructor
+3153,helicopter pilot
+3154,air traffic controllers
+3154,airways communicator
+3154,control tower officer
+3154,control tower radio operator
+3154,flight control tower operator
+3154,flight radio operator
+3155,air traffic safety electronics technicians
+3155,air traffic safety engineer
+3155,air traffic safety technician
+3155,airfield power technician
+3155,ground signaling technician
+3211,medical imaging and therapeutic equipment technicians
+3211,cobalt machine technician
+3211,computed tomography (ct) scan technologist
+3211,diagnostic medical radiographer
+3211,dialysis machine technician
+3211,electrocardiographic equipment technician
+3211,electroencephalographic equipment technician
+3211,endoscopic microscopy technician
+3211,mammographer
+3211,medical radiation therapist
+3211,medical scanning equipment technician
+3211,medical ultrasound machine technician
+3211,medical x-ray equipment technician
+3211,nuclear medicine technologist
+3211,radiographer
+3211,radiology technician
+3211,sonographer
+3211,x-ray technician
+3212,medical and pathology laboratory technicians
+3212,biological laboratory technician
+3212,biomedical technician
+3212,blood-bank technician
+3212,cytology technician
+3212,medical laboratory technician
+3212,pathology laboratory technician
+3212,medical technologist
+3213,pharmaceutical technicians and assistants
+3213,dispensing technician
+3213,pharmaceutical assistant
+3213,pharmaceutical technician
+3213,assistant pharmacist
+3214,medical and dental prosthetic technicians
+3214,dental mechanic
+3214,denturist
+3214,orthodontic technician
+3214,orthopedic appliance maker
+3214,orthotic technician
+3214,orthotist
+3214,prosthetic technician
+3214,prosthetist
+3214,dental prosthetist
+3214,dental technician
+3214,medical prosthetic technician
+3221,nursing associate professionals
+3221,assistant nurse
+3221,associate professional nurse
+3212,on call nurse
+3222,midwifery associate professionals
+3222,assistant midwife
+3222,traditional midwife
+3222,associate professional midwife
+3230,traditional and complementary medicine associate professionals
+3230,acupuncture technician
+3230,ayurvedic technician
+3230,bonesetter
+3230,drugless treatment healer
+3230,healer of indigenous people (e.g. mansi-bok (ibaloi); mansip-ok (kankana-ey) in cordilleras)
+3230,herbalist
+3230,homeopathy technician
+3230,scraping and cupping therapist
+3230,village healer
+3230,witch doctor
+3230,healer of indigenous people
+3230,folk healer
+3230,traditional healer
+3240,veterinary technicians and assistants
+3240,artificial inseminator
+3240,veterinary assistant
+3240,veterinary laboratory technician
+3240,veterinary nurse
+3240,veterinary vaccinator
+3240,veterinary technician
+3251,dental assistants and therapists
+3251,dental assistant
+3251,dental hygienist
+3251,dental therapist
+3252,medical records and health information technicians
+3252,clinical coder
+3252,contact tracer
+3252,disease registry technician
+3252,health information clerk
+3252,medical records analyst
+3252,medical records clerk
+3252,medical records technician
+3252,medical records unit supervisor
+3253,community health workers
+3253,community health aide
+3253,community health promoter
+3253,community health worker
+3253,village health worker
+3253,barangay health worker
+3253,barangay nutrition scholar
+3254,dispensing opticians
+3254,contact lens optician
+3254,contact lens technician
+3254,optical technician
+3254,dispensing optician
+3255,physiotherapy technicians and assistants
+3255,acupressure therapist
+3255,electrotherapist
+3255,hydrotherapist
+3255,massage therapist
+3255,physical rehabilitation technician
+3255,physiotherapy assistant
+3255,physiotherapy technician
+3255,shiatsu therapist
+3255,masssage therapist
+3256,medical assistants
+3256,clinical assistant
+3256,medical assistant
+3256,ophthalmic assistant
+3257,environmental and occupational health inspectors and associates
+3257,charging safety officer
+3257,electric vehicle (ev) fleet and depot safety officer
+3257,environmental sanitation inspector
+3257,food sanitation and safety inspector
+3257,health inspector
+3257,occupational health and safety inspector
+3257,pollution control associate
+3257,pollution inspector
+3257,product safety inspector
+3257,safety and health inspector
+3257,sanitarian
+3257,sanitary inspector
+3257,zoning inspector
+3257,quality assurance
+3257,environmental inspector
+3257,sanitation inspector
+3257,rural sanitary inspector
+3258,ambulance workers
+3258,ambulance officer
+3258,ambulance paramedic
+3258,emergency medical technician
+3258,emergency paramedic
+3258,medical emergency service personnel
+3258,ambulance worker
+3258,emergency responder
+3258,emergency medical care
+3259,health associate professionals not elsewhere classified
+3259,anesthesia technician
+3259,family planning counselor
+3259,human immunodeficiency virus (hiv) counselor
+3259,occupational therapy technician
+3259,respiratory therapy technician
+3259,laboratory director
+3311,securities and finance dealers and brokers
+3311,crypto currency trader
+3311,foreign exchange broker
+3311,foreign exchange dealer
+3311,securities broker
+3311,securities salesperson
+3311,stocks and shares broker
+3311,finance broker
+3311,finance dealer
+3311,securities dealer
+3312,credit and loans officers
+3312,credit analyst
+3312,credit union officer
+3312,loans officer
+3312,mortgage officer
+3312,credit and loans officer
+3312,loan coordinator
+3312,microfinance cardbank
+3312,credit officer
+3313,accounting associate professionals
+3313,accounting assistant
+3313,accounting officer
+3313,accounting technician
+3313,associate auditor
+3313,audit assistant
+3313,bank reconciliation assistant
+3313,bookkeeper
+3313,accounting analyst
+3313,senior bookeeper
+3313,freelance online bookeeper
+3313,accounting associate
+3314,"statistical, mathematical and related associate professionals"
+3314,actuarial assistant
+3314,mathematical assistant
+3314,statistical assistant
+3315,valuers and loss assessors
+3315,appraiser
+3315,claims assessor
+3315,claims inspector
+3315,insurance assessor
+3315,jewelry appraiser
+3315,real estate appraiser
+3315,valuer
+3315,assesor
+3315,bank appraiser
+3315,assesor afficer
+3315,local assesment and operation approve
+3321,insurance representatives
+3321,assistant underwriter
+3321,insurance adviser
+3321,insurance agent
+3321,insurance broker
+3321,insurance dealer
+3321,insurance underwriter
+3321,insurance staff broker
+3321,insurance representative
+3321,life insurance agent
+3321,life insurance consultant
+3322,commercial sales representatives
+3322,after-sale service adviser
+3322,canvasser
+3322,commercial sales agent
+3322,commercial traveler
+3322,franchise relation officer
+3322,manufacturing sales agent
+3322,manufacturing sales consultant
+3322,commercial sales representative
+3322,sales representative
+3322,commercial good agent
+3322,memorial sales representative
+3322,car dealers
+3323,buyers
+3323,procurement officer
+3323,purchasing agent
+3323,purchasing merchandiser
+3323,purchasing officer
+3323,procurement clerk
+3323,purchaser
+3323,acquisition officer
+3324,trade brokers
+3324,commodities broker
+3324,commodity futures dealer
+3324,shipping broker
+3324,trade broker
+3324,custom broker
+3331,clearing and forwarding agents
+3331,shipping agent
+3331,logistic agent
+3331,logistic clerk
+3332,events manager
+3332,conference and event planners
+3332,conference and event organizer
+3332,conference planner
+3332,events coordinator
+3332,wedding planner
+3332,conference and event planner
+3332,event organizer
+3332,on-call event organizer
+3332,event host
+3333,employment agents and contractors
+3333,employment agent
+3333,job placement officer
+3333,labor contractor
+3334,real estate agents and property managers
+3334,boarding house owner
+3334,apartment owner
+3334,space rental owner
+3334,property manager
+3334,real estate broker
+3334,real estate salesperson
+3334,realtor
+3334,real estate agent
+3334,real estate specialist
+3334,property sales person
+3334,lessor
+3334,real estate manager
+3334,property specialist
+3334,leasing manager
+3339,business services agents not elsewhere classified
+3339,advertising salesperson
+3339,auctioneer
+3339,business services salesperson
+3339,literary agent
+3339,musical performance agent
+3339,sports agent
+3339,theatrical agent
+3339,tour operator
+3339,literacy agent
+3341,office supervisors
+3341,clerical supervisor
+3341,data entry supervisor
+3341,filing clerks supervisor
+3341,personnel clerks supervisor
+3341,office supervisor
+3341,system planning supervisor
+3341,admin supervisor
+3341,human resource supervisor
+3341,administrative supervisor
+3342,legal secretaries
+3342,legal practice manager
+3342,legal secretary
+3342,law firm secretary
+3343,administrative and executive secretaries
+3343,administrative assistant
+3343,administrative secretary
+3343,committee secretary
+3343,correspondence assistant
+3343,court reporter
+3343,executive assistant
+3343,executive secretary
+3343,personal assistant
+3344,medical secretaries
+3344,dental secretary
+3344,hospital ward secretary
+3344,medical insurance billing secretary
+3344,medical office administrative assistant
+3344,medical practice manager
+3344,medical secretary
+3344,medical stenographer
+3344,medical transcriptionist
+3344,pathology secretary
+3344,patient care secretary
+3351,customs and border inspectors
+3351,border inspector
+3351,customs inspector
+3351,customs officer
+3351,immigration officer
+3351,passport checking officer
+3352,government tax and excise officials
+3352,excise officer
+3352,tax collector
+3352,tax examiner
+3352,tax officer
+3352,taxation inspector
+3352,tax mapper
+3353,government social benefits officials
+3353,pensions officer
+3353,social benefits officer
+3353,social insurance officer
+3353,social security claims officer
+3354,government licensing officials
+3354,building permit licensing officer
+3354,business permit licensing officer
+3354,licensing officer
+3354,passport issuing officer
+3354,licensing inspector
+3355,police inspectors and detectives
+3355,police detective
+3355,police inquiry agent
+3355,police inspector
+3355,police intelligence agent
+3355,police investigator
+3359,government regulatory associate professionals not elsewhere classified
+3359,agricultural inspector
+3359,fisheries inspector
+3359,forest concession guard
+3359,forestry inspector
+3359,land management inspector
+3359,market inspector
+3359,prices inspector
+3359,public services inspector
+3359,wage inspector
+3359,weights and measures inspector
+3411,legal and related associate professionals
+3411,bailiff
+3411,clerk of court/judge/law
+3411,court clerk
+3411,judge's clerk
+3411,justice of the peace
+3411,law clerk
+3411,legal assistant
+3411,paralegal
+3411,private detective
+3411,private investigator
+3411,title searcher
+3411,conveyancing clerk
+3411,private inquiry agent
+3411,court decongestion officer
+3411,court legal officer
+3412,social work associate professionals
+3412,daycare worker
+3412,barangay affairs worker
+3412,community development worker
+3412,community service worker
+3412,crisis intervention worker
+3412,culture center worker assistant
+3412,disability services officer
+3412,family service worker
+3412,life skills instructor
+3412,mental health support worker
+3412,outreach project worker
+3412,relief and rehabilitation worker
+3412,social welfare aide
+3412,social welfare assistant
+3412,welfare support worker
+3412,welfare worker
+3412,women's shelter supervisor
+3412,youth development assistant
+3412,youth services worker
+3412,associate professional social worker
+3413,religious associate professionals
+3413,catechist
+3413,faith healer
+3413,lay evangelist
+3413,lay minister
+3413,lay preacher
+3413,monk
+3413,nun
+3413,parish workers
+3413,religious workers
+3413,"tribal ritualists (e.g. mambunong, mumbaki, mabaki, mensapo and anituwan in cordilleras)"
+3413,church worker
+3413,religious teacher
+3413,church coordinator ministry
+3421,athletes and sports players
+3421,"athletes, all sports"
+3421,bicycle racer
+3421,jockey
+3421,basketball player
+3422,"sports coaches, instructors and officials"
+3422,referee
+3422,sports coach
+3422,sports instructor
+3422,sports official
+3422,sports trainer
+3422,teakwando instructor
+3422,basketball coach
+3422,tennis instructor
+3422,swimming instructor
+3422,volleyball coach
+3422,boxing trainer
+3423,fitness and recreation instructors and program leaders
+3423,aerobics instructor
+3423,fitness instructor
+3423,horse riding instructor
+3423,outdoor adventure guide
+3423,personal trainer
+3423,pilates instructor
+3423,sailing instructor
+3423,underwater diving instructor
+3423,zumba instructor
+3423,gym instructor
+3424,e-sports players and coaches
+3424,esport coaches
+3424,esport players
+3431,photographers
+3431,aerial photographer
+3431,commercial photographer
+3431,industrial photographer
+3431,news photographer
+3431,photojournalist
+3431,portrait photographer
+3431,scientific photographer
+3431,photo journalist
+3431,photographer
+3431,freelance photographer
+3432,interior designers and decorators
+3432,building designer and decorator
+3432,display decorator
+3432,display designer
+3432,interior decorator
+3432,interior designer
+3432,set designer
+3432,visual merchandiser
+3432,window dresser
+3433,"gallery, museum and library technicians"
+3433,curatorial technician
+3433,gallery technician
+3433,library technician
+3433,museum technician
+3433,taxidermist
+3434,chefs
+3434,executive chef
+3434,head chef
+3434,pastry chef
+3434,saucier
+3434,sous-chef
+3434,chef
+3434,assistant chef
+3435,artistic and cultural associate professional not elsewhere classified
+3435,body artist
+3435,broadcasting floor manager
+3435,broadcasting program coordinator
+3435,broadcasting property master
+3435,extra
+3435,lighting technician
+3435,prompter
+3435,special effects technician
+3435,stage manager
+3435,stage technician
+3435,stunt artist
+3435,stunt coordinator
+3435,tattoo artist
+3435,theater technician
+3435,theatrical dresser
+3435,walker-on
+3511,information and communications technology operations technicians
+3511,computer aided design (cad) operator
+3511,computer maintenance specialist
+3511,computer maintenance technologist
+3511,computer operator
+3511,computer peripheral equipment operator
+3511,electronic data processing operator
+3511,high-speed computer printer operator
+3511,information technology technician
+3511,information technician
+3511,computer specialist maintenance
+3511,information and technology specialist
+3511,technical suppport
+3511,information technologist
+3511,information technology personnel
+3512,information and communications technology user support technicians
+3512,computer database assistant
+3512,computer engineering assistant
+3512,computer help desk operator
+3512,computer programming assistant
+3512,computer systems analysis assistant
+3512,electronic data processing assistant
+3512,ict communications assistant
+3511,information technology support
+3513,computer network and systems technicians
+3513,computer network technician
+3513,network support technician
+3513,computer technician
+3514,web technicians
+3514,webmaster
+3514,website administrator
+3514,website technician
+3514,web technician
+3514,website analyst
+3521,broadcasting and audio-visual technicians
+3521,audiovisual operator
+3521,broadcasting equipment operator
+3521,broadcasting technician
+3521,camera control unit technician
+3521,camera operator
+3521,cctv operator
+3521,cinema projectionist
+3521,media production assistant
+3521,motion picture camera operator
+3521,radio broadcasting equipment operator
+3521,radio communication technician
+3521,radio operator
+3521,radio production technician
+3521,sound technician
+3521,transmitting equipment operator
+3521,tv broadcasting equipment operator
+3521,video camera operator
+3521,video camera technician
+3521,film camera operator
+3521,video technician
+3522,telecommunications engineering technicians
+3522,satellite communication engineering technician
+3522,telecommunications engineering technician
+3522,telephone engineering technician
+4110,general office clerks
+4110,document receiving clerk
+4110,laboratory office clerk
+4110,livelihood office clerk
+4110,office clerk
+4110,office maintenance clerk
+4110,office record clerk
+4110,office records filing clerk
+4110,registrar clerk
+4110,admin clerk
+4110,administrative clerk
+4110,admin officer
+4110,administrative officer
+4110,administrative aide
+4110,administrative staff
+4110,admin staff
+4110,admin aide
+4110,staff clerk
+4110,clerk
+4110,records clerk
+4110,site clerk
+4110,general office staff
+4110,election clerk
+4110,record keeper clerk
+4110,office staff
+4120,secretaries (general)
+4120,marketing secretary
+4120,office secretary
+4120,parish secretary
+4120,sales secretary
+4120,secretary
+4120,typing secretary
+4120,word processing secretary
+4120,secretary (general)
+4120,assistant secretary
+4120,secretary of lupon
+4120,congresmen secretary
+4131,typists and word processing operators
+4131,shorthand typist
+4131,stenographer
+4131,typing stenographer
+4131,typist
+4131,word processing clerk
+4131,word processor
+4131,building permit processor
+4131,lgu process server
+4132,data entry clerks
+4132,computer clerk
+4132,computer data encoder
+4132,data encoder
+4132,data encoder clerk
+4132,data entry operator
+4132,data input clerk
+4132,encoder clerk
+4132,payment entry clerk
+4132,data entry clerk
+4132,filing clerk
+4132,office encoder
+4132,medical coder
+4132,freelance data entry
+4132,computer operator encoder
+4132,registration clerk
+4132,data clerk
+4132,online encoder
+4211,bank tellers and related clerks
+4211,bank cashier
+4211,bank clerk
+4211,bank teller
+4211,money changer
+4211,post office counter clerk
+4211,stl bet collector
+4211,card bank encoder
+4211,lending company clerk
+4211,online banker
+4211,senior bank teller
+4212,"bookmakers, croupiers/dealers and related gaming workers"
+4212,bet collector
+4212,bookmaker
+4212,card dealer
+4212,croupier
+4212,gaming dealer
+421,axi gamer
+4212,gambling activities
+4212,casino dealer
+4212,cockfight attendant
+4212,cockfight handler
+4212,gaming worker
+4212,jueteng collector
+4212,lottery helper
+4212,carnival worker
+4212,lottery collector
+4212,sertres agent
+4212,toms world gaming assistant
+4213,pawnbrokers and money lenders
+4213,loan clerk
+4213,loan processor
+4213,money lender
+4213,palawan teller
+4213,pawnshop teller
+4213,pawnbroker
+4213,loan officer
+4214,debt collectors and related workers
+4214,bill and account collector
+4214,charity collector
+4214,credit collection clerk
+4214,credit collector
+4214,debt collector
+4214,lending collector
+4214,payment collection agent
+4214,rent collector
+4214,bill courier
+4214,bless collector
+4214,revenue collection clerk
+4214,rider collector
+4214,billing clerk
+4221,travel consultants and clerks
+4221,airline ticket agent
+4221,check-in attendant
+4221,tourism information clerk
+4221,tourism information counselor
+4221,travel agency clerk
+4221,travel agent
+4221,travel clerk
+4221,travel consultant
+4221,travel counselor
+4221,travel desk clerk
+4221,travel ticket issuing clerk
+4222,contact center information clerks
+4222,call center agent
+4222,call center assistant
+4222,call center representative
+4222,chat support agent
+4222,chat support representatives
+4222,customer contact center information clerk
+4222,customer service call center assistant
+4222,customer service call center associate
+4222,customer service representative
+4222,telephone service representative
+4222,contact center information clerk
+4222,virtual assistant
+4222,accenture virtual assistant
+4222,call center clerk
+4222,call center information
+4222,contact center information
+4222,contact center clerk
+4222,information desk
+4222,technical chat support
+4223,telephone switchboard operators
+4223,answering service operator
+4223,communication telephone operator
+4223,telephone operator
+4223,telephone switchboard operator
+4224,hotel receptionists
+4224,hotel front desk clerk
+4224,hotel receptionist
+4225,inquiry clerk
+4225,counter inquiries clerk
+4225,information clerk
+4225,reservation inquiries clerk
+4225,concierge
+4225,inforrmation front desk clerk
+4225,rescue clerk
+4226,receptionists (general)
+4226,medical office receptionist
+4226,medical receptionist
+4226,receptionist
+4226,building receptionist
+4227,survey and market research interviewers
+4227,data enumerator clerk
+4227,enumerator
+4227,enumerator clerk
+4227,market research interviewer
+4227,public opinion interviewer
+4227,survey interviewer
+4227,statistical research
+4227,data gatherer
+4229,client information workers not elsewhere classified
+4229,admissions clerk
+4229,eligibility interviewer
+4229,eligibility specialist
+4229,hospital admissions clerk
+4229,client specialist
+4229,clinic clerk
+4229,confidential informant
+4311,accounting and bookkeeping clerks
+4311,account-information clerk
+4311,accounting clerk
+4311,accounting sales clerk
+4311,accounting staff
+4311,bookkeeping clerk
+4311,cost computing clerk
+4311,accounts clerk
+4311,municipal bookeeper
+4311,bookeeper
+4311,barangay record keeper
+4312,"statistical, finance and insurance clerks"
+4312,actuarial clerk
+4312,brokerage clerk
+4312,finance clerk
+4312,insurance clerk
+4312,mortgage clerk
+4312,securities clerk
+4312,statistical clerk
+4312,statistician aide
+4312,tax clerk
+4312,treasury clerk
+4312,finance officer
+4312,company finance staff
+4312,junior micro finance
+4313,payroll clerks
+4313,payroll and timekeeping specialist
+4313,payroll clerk
+4313,wages clerk
+4313,payroll associate
+4313,payroll encoder
+4321,stock clerks
+4321,cargo clerk
+4321,demurrage clerk
+4321,freight clerk
+4321,inventory clerk
+4321,stock checker clerk
+4321,stock controller clerk
+4321,stock custodian
+4321,stock dispatch clerk
+4321,storekeeper clerk
+4321,storeroom clerk
+4321,supply checker clerk
+4321,warehouse checker
+4321,warehouse clerk
+4321,warehouse dispatcher
+4321,warehouse man
+4321,weighing clerk
+4321,checker monitor
+4321,garments stock man
+4321,parts counterman
+4321,sorting clerk
+4321,stockman
+4321,stocks clerk
+4321,supply officer
+4321,warehouse staff
+4321,weighting clerk
+4322,production clerks
+4322,material control and handling clerk
+4322,materials order clerk
+4322,materials processing and control clerk
+4322,materials schedule clerk
+4322,production clerk
+4322,production assistant
+4322,production crew
+4323,transport clerks
+4323,aircraft clerical dispatcher
+4323,incoming-freight clerk
+4323,ship boarding clerical inspector
+4323,train clerical dispatcher
+4323,transport service clerical controller
+4323,transport service clerical dispatcher
+4323,dispacher
+4323,cargo checker
+4323,seaport checker
+4411,library clerks
+4411,librarian aide
+4411,library assistant
+4411,library clerk
+4411,library filer
+4412,mail carriers and sorting clerks
+4412,mail clerk
+4412,mail courier
+4412,mail dispatch clerk
+4412,mail messenger
+4412,mail sorting clerk
+4412,post carrier
+4412,postal clerk
+4412,postman
+4412,mail carrier
+4412,postman/woman
+4413,"coding, proof-reading and related clerks"
+4413,coding clerk
+4413,proofreading clerk
+4414,scribes and related workers
+4414,scribe
+4415,filing and copying clerks
+4415,copying clerk
+4415,comelec staff
+4415,filing and copying clerk
+4415,photocopying clerk
+4416,personnel clerk
+4416,employee benefits service clerk
+4416,employee data management clerk
+4416,employment clerk
+4416,human resource assistant
+4416,human resource clerk
+4416,recruitment clerk
+4416,human resource coordinator
+4419,clerical support workers not elsewhere classified
+4419,advertising clerk
+4419,correspondence clerk
+4419,directory compiler
+4419,press clipper
+4419,publication clerk
+4419,assistant production
+4419,clerical support worker
+4419,facilitator
+4419,social media moderator
+5111,travel attendants and travel stewards
+5111,aircraft cabin attendant
+5111,airline steward
+5111,cabin attendant
+5111,flight attendant
+5111,flight steward
+5111,ship's steward
+5111,travel attendant
+5112,transport conductors
+5112,bus conductor
+5112,cable car conductor
+5112,jeepney conductor
+5112,passenger car conductor
+5112,public transport ticket inspector
+5112,train conductor
+5113,travel guides
+5113,art gallery guide
+5113,mountaineering guide
+5113,museum guide
+5113,recreational attendant
+5113,sightseeing guide
+5113,tour escort
+5113,tourist guide
+5113,tour guide
+5120,cooks
+5120,head cook
+5120,preserving cook
+5120,private service cook
+5120,shipcook
+5120,cook
+5120,catering cook
+5120,cook helper
+5120,line cook
+5120,on call cook
+5120,restaurant cook
+5120,school canteen cook
+5131,waiters
+5131,back waiter
+5131,food attendant
+5131,food server
+5131,general waiter
+5131,sommelier
+5131,waitress
+5131,waiter
+5131,bar server
+5131,canteen helper
+5131,canteen server
+5131,restaurant waiter
+5131,food caterer
+5131,service crew
+5131,food service crew
+5131,pantry server
+5131,restaurant waitress
+5132,bartenders
+5132,barista
+5132,barkeeper
+5132,barmaid
+5132,bartender
+5141,hairdressers
+5141,barber
+5141,hair care specialist
+5141,hair beautician
+5141,hair colorist
+5141,hair preparer
+5141,hairstylist
+5141,assistant hairdresser
+5141,haircutter
+5141,hairdresser
+5141,hair braider
+5141,hair rebonding
+5142,beauticians and related workers
+5142,assistant beautician
+5142,bath attendant
+5142,beautician
+5142,beauty consultant
+5142,cosmetologist
+5142,make-up artist
+5142,manicurist
+5142,mortuary beautician
+5142,nail technician
+5142,pedicurist
+5142,slimming consultant
+5142,massage services
+5142,parlor helper
+5142,facial spa worker
+5151,"cleaning and housekeeping supervisors in offices, hotels and other"
+5151,cleaning supervisor
+5151,hospital housekeeper
+5151,hotel housekeeper
+5151,hotel housekeeping attendant
+5151,housekeeping matron
+5151,housekeeping supervisor
+5151,hotel caretaker
+5151,hotel cleaning and housekeeping supervisor
+5151,utility cleaner
+5152,household service providers
+5152,bed and breakfast operator
+5152,butler
+5152,domestic housekeeper
+5152,house steward
+5152,housekeeper
+5153,caretaker
+5153,building concierge
+5153,dorm caretaker
+5153,lighthouse keeper
+5153,property caretaker
+5153,resort caretaker
+5153,skilled janitor
+5153,building maintenance
+5153,building caretaker and maintenance
+5153,building caretaker
+5153,boarding house caretaker
+5153,beach resort caretaker
+5153,cemetery caretaker
+5153,house caretaker
+5153,lodge caretaker
+5153,lot caretaker
+5153,public school caretaker
+5153,tower caretaker
+5161,"astrologers, fortune-tellers and related workers"
+5161,astrologer
+5161,feng shui master
+5161,fortune teller
+5161,numerologist
+5161,palmist
+5161,paranormal expert
+5161,psychic reader
+5161,tarot reader
+5162,companions and valets
+5162,chaperon
+5162,companion
+5162,personal maid
+5162,resident care companion
+5162,valet
+5163,undertakers and embalmers
+5163,cremator
+5163,funeral undertaker
+5163,grave digger
+5163,sepulturero
+5163,embalmers
+5163,funeral attendant
+5164,pet groomers and animal care workers
+5164,animal attendant
+5164,animal keeper
+5164,animal trainer
+5164,dog breeder
+5164,dog trainer
+5164,horse breaker
+5164,veterinary aide
+5164,zookeeper
+5164,pet shop owner
+5164,pet groomer
+5165,driving instructors
+5165,driving instructor
+5165,motorcycle driving instructor
+5169,personal services workers not elsewhere classified
+5169,club hostess
+5169,dancing partner
+5169,escort
+5169,hostess
+5169,social escort
+5169,usher
+5169,usherette
+5211,stall and market salespersons
+5211,slippers stall vendor
+5211,mais market vendor
+5211,accesories stall vendor
+5211,mais stall vendor
+5211,cooked seafood stall vendor
+5211,pastil stall vendor
+5211,wagwag stall vendor
+5211,fresh seafood stall vendor
+5211,fresh seafood market vendor
+5211,fresh siomai stall vendor
+5211,salt market vendor
+5211,almusal stall vendor
+5211,underwear stall vendor
+5211,construction tool stall vendor
+5211,daing stall vendor
+5211,dry goods stall vendor
+5211,fresh chicken market vendor
+5211,flower stall vendor
+5211,mango market vendor
+5211,banana market vendor
+5211,dried fish stall vendor
+5211,banana stall vendor
+5211,beverages and refreshment vendor
+5211,mango stall vendor
+5211,children clothing stall vendor
+5211,fresh chicken stall vendor
+5211,burger stall vendor
+5211,burger machine salesperson
+5211,peanut butter market vendor
+5211,peanut butter stall vendor
+5211,viand (ulam) stall vendor
+5211,uling and niyog market vendor
+5211,egg market vendor
+5211,calamansi stall vendor
+5211,calamansi market vendor
+5211,meryenda stall vendor
+5211,mami pares stall vendor
+5211,egg stall vendor
+5211,street food stall vendor
+5211,banana cue stall vendor
+5211,balot stall vendor
+5211,native cake market vendor
+5211,native cake stall vendor
+5211,kakanin market vendor
+5211,pares stall vendor
+5211,public market vendor
+5211,kakanin stall vendor
+5211,maruya stall vendor
+5211,sampaguita vendor/owner
+5211,tinapa market vendor
+5211,tinapa stall vendor
+5211,cook food stall vendor
+5211,ukay ukay shoes stall vendor
+5211,ukay ukay stall vendor
+5211,flower pot stall vendor
+5211,food stall vendor
+5211,fried chicken stall vendor
+5211,milktea stall vendor
+5211,coconut oil market vendor
+5211,mineral water stall vendor
+5211,fruit market vendor
+5211,fruit stall vendor
+5211,kiosk salesperson
+5211,fish stall vendor
+5211,kitchen ware stall vendor
+5211,vegetable market vendor
+5211,frozen food stall vendor
+5211,frozen food market vendor
+5211,meat stall vendor
+5211,meat market vendor
+5211,fish market vendor
+5211,market vendor
+5211,market salesperson
+5211,vegetable stall vendor
+5211,market stallholder
+5211,souvenir items stall vendor
+5211,ihaw ihaw stall vendor
+5211,chicken market vendor
+5211,coffee stall vendor
+5211,stall salesperson
+5211,street stall sales assistant
+5211,street stall vendor
+5211,barbecue stall vendor
+5211,street stall salesperson
+5211,market stall holder
+5211,inasal stall vendor
+5212,street food salespersons
+5212,mineral water vendor
+5212,boiled/cooked mais vendor
+5212,cooked seafood vendor
+5212,pastil vendor
+5212,siomai vendor
+5212,hotcake vendor
+5212,puto maya vendor
+5212,sorbetes ice cream vendor
+5212,rolling store vendor (immediate consumable food)
+5212,inasal vendor
+5212,meryenda vendor
+5212,viand (ulam) vendor
+5212,kikiam vendor
+5212,mami pares vendor
+5212,peanut butter vendor
+5212,banana cue vendor
+5212,food hawker
+5212,ihaw ihaw vendor
+5212,ice scramble vendor
+5212,ice cream vendor
+5212,snack vendor
+5212,native cake vendor
+5212,kakanin vendor
+5212,fried chicken vendor
+5212,food vendor
+5212,cook food vendor
+5212,taho vendor
+5212,almusal vendor
+5212,dirty ice cream vendor
+5212,balot vendor
+5212,barbecue vendor
+5212,burger vendor
+5212,assorted street food vendor
+5212,street food vendor
+5221,shopkeepers
+5221,grocer
+5221,newsagent
+5221,shopkeeper
+5221,store keeper
+5221,shop keeper
+5221,bakery store owner
+5221,bamboo & nipa retailer
+5221,bottled water retailer
+5221,car washing owner
+5221,coke retailer
+5221,egg store owner
+5221,flower shop owner
+5222,shop supervisors
+5222,checkout supervisor
+5222,shop supervisor
+5222,store supervisor
+5222,supermarket supervisor
+5222,sales supervisor
+5222,branch supervisor
+5222,shop sales supervisor
+5222,market supervisor
+5223,shop sales assistants
+5223,retail establishment salesperson
+5223,sales clerk
+5223,shop assistant
+5223,store sales clerk
+5223,wholesale establishment salesperson
+5223,shop sale assistant
+5223,flower shop helper
+5223,farm supply helper
+5223,saleslady
+5223,salesman
+5223,grocery salesman
+5223,electric shop helper
+5223,salesperson
+5223,store sales assistant
+5223,store assistant
+5223,senior sales agent
+5223,customer assistant
+5223,online selling helper
+5223,area merchandizer salesman
+5223,fruit sales assistant
+5223,cafe restaurant sales assistant
+5223,meat seller sales assistant
+5223,home credit salesperson
+5223,sale marketing associate
+5223,sales associate
+5230,cashiers and ticket clerks
+5230,cash clerk
+5230,cash register clerk
+5230,cashier
+5230,checkout operator
+5230,service station cashier
+5230,store cashier
+5230,entertainment and sporting event ticket issuing clerk
+5230,toll collector
+5230,entertainment and sporting events ticket issuing clerk
+5230,jueteng cashier
+5230,restaurant cashier
+5230,cashier clerk
+5230,ticketer
+5230,teller
+5230,swertres asher
+5230,lotto outlet teller
+5230,ticketing teller
+5230,ticket clerk
+5230,office clerk cashier
+5230,billing section cashier
+5230,cashier ticket clerk
+5230,on call cashier
+5241,fashion and other models
+5241,advertising model
+5241,artist's model
+5241,fashion model
+5241,on call freelance model
+5242,sales demonstrators
+5242,demonstrator
+5242,product demonstrator
+5242,promodizer
+5242,sales merchandiser
+5242,promoter
+5242,product endorser
+5242,sales staff
+5243,door to door salespersons
+5243,door to door meat vendor
+5243,door to door tinapa vendor
+5243,door to door dried fish vendor
+5243,door to door food vendor
+5243,door to door peanut butter vendor
+5243,door to door yakult vendor
+5243,door to doot meryenda vendor
+5243,party plan salesperson
+5243,door to door salesperson
+5243,door to door kakanin vendor
+5243,door to door fish vendor
+5243,door to doort vegetable vendor
+5243,door to door banana cue vendor
+5243,door to door sales representative
+5243,door to door food supplement dealer
+5243,door to doot sipit vendor
+5243,door to door barley dealer
+5243,door to door snacks vendor
+5244,contact center salespersons
+5244,call center salesperson
+5244,customer contact center salesperson
+5244,sales and marketing call center agent
+5244,telemarketer
+5244,telemarketing agent
+5244,telemarketing sales representative
+5244,telemarketing salesperson
+5244,telephone salesperson
+5244,internet salesperson
+5245,service station attendants
+5245,electric vehicle (ev) charging service attendant
+5245,gas station attendant
+5245,marina attendant
+5245,service station attendant
+5245,electric vehicle (ev) charging service personnel/attendant
+5245,gasoline boy
+5245,pump attendant
+5246,food service counter attendants
+5246,cafeteria counter attendant
+5246,food counter attendant
+5246,food service assistant
+5246,salad bar attendant
+5246,food service counter assistant
+5246,food server counter attendant
+5246,food prepairer
+5246,food service attendant
+5247,online selling salespersons
+5247,online seller
+5247,online seller assistant
+5247,online store merchant
+5247,online store worker
+5247,online clothing seller
+5247,online food seller
+5247,online business
+5249,sales workers not elsewhere classified
+5249,rental salesperson
+5249,sales worker
+5249,buy and sell agent
+5311,child care workers
+5311,babysitter
+5311,child care attendant
+5311,child care provider
+5311,child care staff
+5311,child care worker
+5311,creche ayah
+5311,family day care worker
+5311,nanny
+5312,teachers aides
+5312,pre-school assistant
+5312,teacher's assistant
+5312,nursery teacher
+5312,kindergarden teacher
+5312,online teacher
+5312,subject tutor
+5312,teacher aide
+5312,intern teacher
+5312,volunteer teacher
+5312,substitute teacher
+5321,health care assistants
+5321,barangay health aide
+5321,clinic or hospital birth assistant
+5321,clinic or hospital nursing aide
+5321,hospital attendant
+5321,hospital nursing aide
+5321,institution-based caregiver
+5321,nursing attendant
+5321,patient care assistant
+5321,psychiatric aide
+5321,birth assistant
+5321,hospital or clinic nursing aide
+5321,midwifery attendant
+5321,nursing aide
+5321,health care assistant
+5321,midwife
+5321,emergency response team
+5322,home-based personal care workers
+5322,home birth assistant
+5322,home care aide
+5322,home nursing aide
+5322,home-based caregiver
+5322,personal care provider
+5322,caregiver
+5322,old sitter
+5329,personal care workers in health services not elsewhere classified
+5329,dental aide
+5329,first aid assistant
+5329,first aid attendant
+5329,hospital orderly
+5329,medical imaging assistant
+5329,pharmacy aide
+5329,phlebotomist
+5329,sterilization aide
+5329,dental aid
+5329,traditional healer (manghihilot)
+5411,firefighters
+5411,aircraft accidents firefighter
+5411,firefighter
+5411,fireman
+5411,forest firefighter
+5411,fire fighter volunteer
+5411,firewoman officer
+5412,police officers
+5412,constable
+5412,police patrol officer
+5412,police patrolman
+5412,policeman
+5412,police officer
+5412,police staff sergeant
+5412,police master sergeant
+5412,police woman
+5412,chief of police
+5412,police corporal
+5412,patrolman
+5412,police colonel
+5412,senior police officer
+5413,prison guards
+5413,correctional guard
+5413,jail guard
+5413,prison guard
+5413,prison warden
+5413,civil guard
+5413,correctional officer
+5413,senior jail officer
+5413,jail officer
+5413,correction officer
+5414,security guards
+5414,aviation security guard
+5414,bodyguard
+5414,bouncer
+5414,civilian guard
+5414,customs gatekeeper
+5414,doorkeeper
+5414,gatekeeper
+5414,guard patrol
+5414,harbor patrol
+5414,museum guard
+5414,roving guard
+5414,security agent
+5414,security guard
+5414,security officer
+5414,security patrolman
+5414,surveillance officer
+5414,watchman
+5414,watchman/watchwoman
+5414,club bouncer
+5414,escourt guard
+5414,k9 caretaker
+5414,lady guard
+5414,company guard
+5414,machine guard
+5414,bank security guard
+5414,provincial security guard
+5414,private security guard
+5414,establishment security guard
+5414,school guard
+5414,private establishment security guard
+5414,subdivision security guard
+5419,protective services workers not elsewhere classified
+5419,animal control officer
+5419,beach patrolman/patrolwoman
+5419,coastguard
+5419,crossing guard
+5419,forest protection officer
+5419,game warden
+5419,lifeguard
+5419,rescue service personnel
+5419,traffic aide
+5419,traffic enforcer
+5419,traffic warden
+5419,engine crew
+6111,rice farmers
+6111,palay crop farmer
+6111,rice farmer
+6111,palay farmer
+6111,"irrigated, rice farmer"
+6111,"lowland, rice farmer"
+6111,"rainfed, rice farmer"
+6111,"upland, rice farmer"
+6112,corn farmers
+6112,corn farmer
+6113,"vegetable, legumes and root crops farmers"
+6113,chinese cabbage helper
+6113,root crops farmer
+6113,vegatable/root crops farmer
+6113,"vegetable, legumes and root crops"
+6113,root crops & vegetable farmers
+6113,"root crops, legumes"
+6113,"farmer legumes, crops"
+6113,crop farmer
+6113,chinese cabbage farmer
+6113,cabbage farmer
+6113,eggplant farmer
+6113,cauliflower farmer
+6113,ampalaya farmer
+6113,pepper farmer
+6113,carrot farmer
+6113,california pepper farmer
+6113,camote farmer
+6113,cassava farmer
+6113,gabi farmer
+6113,mongo beans farmer
+6113,peanut farmer
+6113,pechay farmer
+6113,roots vegetable farmer
+6113,beans farmer
+6113,soybeans farmer
+6113,broccoli farmer
+6113,sweet potato farmer
+6113,tomato farmer
+6113,ube farmer
+6113,white potato (irish potato) farmer
+6113,okra vegetable farmer
+6113,rootcrops farmer
+6113,luya farmer
+6113,squash farmer
+6113,cucumber farmer
+6113,lemon grass farmer
+6113,ginger farmer
+6114,sugarcane farmers
+6115,coconut farmers
+6115,coconut farmer
+6115,copra farmer
+6115,tuba gatherer
+6115,coconut farm operator
+6116,other field crop farmers
+6116,abaca farmer
+6116,achuete farmer
+6116,black pepper farmer
+6116,cotton farmer
+6116,garlic/onion (and other spices) farmer
+6116,jute farmer
+6116,laurel farmer
+6116,ramie farmer
+6116,sisal farmer
+6116,tobacco farmer
+6117,tree and shrub crop growers
+6117,banana farmer
+6117,cacao farmer
+6117,cashew nut farmer
+6117,calamansi farmer
+6117,castanas farmer
+6117,citrus farmer
+6117,coffee farmer
+6117,fruit farmer
+6117,mango farmer
+6117,pili nut farmer
+6117,pineapple farmer
+6117,rubber tapper
+6117,rubber tree farmer
+6117,tea farmer
+6117,viticulturist
+6117,fruit bearing farmer
+6117,rubber farmer
+6118,"gardeners, horticultural and nursery growers"
+6118,bamboo shoot grower
+6118,foliage propagator
+6118,horticulturist
+6118,landscape gardener
+6118,market gardener
+6118,mushroom cultivator
+6118,orchid plant grower
+6118,rose grower
+6118,flower farmer
+6119,"other market gardeners and crop growers, not elsewhere classified"
+6121,livestock farmer
+6121,carabao farmer
+6121,cattle farmer
+6121,cattle herder
+6121,goat farmer
+6121,horse breeder
+6121,livestock stockman
+6121,shepherd
+6121,cow farmer
+6122,dairy farmer
+6123,eggs producers
+6123,egg collector
+6123,egg hatcher
+6123,egg manufacturing
+6123,chicken eggs producer
+6124,chicken farmer
+6124,chicken breeder
+6124,chicken meat producer
+6124,"poultry tender, chicken"
+6124,native chicken raiser
+6125,duck raisers
+6125,duck meat producer
+6125,duck breeder
+6125,duck farmer/raiser
+6125,duck farmer
+6125,"poultry tender, duck"
+6126,poultry producers
+6126,poultry breeder (other than chicken and duck)
+6126,poultry farmer (other than chicken and duck)
+6126,poultry tender (other than chicken and duck)
+6126,quail farmer
+6126,turkey farmer
+6126,poultry producer
+6127,hog raising producers
+6127,hog farmer
+6127,hog raiser
+6127,pig farmer
+6127,pigery
+6128,apiarists and sericulturists
+6128,apiary farmer (apiarist)
+6128,beekeeper
+6128,beekeeping farmer
+6128,silkworm farmer (sericulturist)
+6129,animal producers not elsewhere classified
+6129,crocodile farmer
+6129,earthworm farmer (vermiculturist)
+6129,fur farmer (non-domesticated animals)
+6129,game bird breeder
+6129,game fowl raiser
+6129,ostrich farmer
+6129,reptile farmer
+6129,snail breeder
+6129,gamefowl raiser
+6130,mixed crop and animal producers
+6130,mixed crop and animal producer
+6130,farmer (mixed farming)
+6130,mixed crop and livestock farmer
+6130,skilled farm worker (mixed farming)
+6130,skilled farm worker (mixed crop and livestock)
+6211,forest tree planters
+6211,forest ranger
+6211,watershed forester
+6212,concessionaires and loggers
+6212,log marker
+6212,log scaler
+6212,logger
+6212,logging climber
+6212,lumber grader
+6212,lumberjacks
+6212,rafter
+6212,timber cruiser
+6212,timber inspector
+6212,tree feller
+6212,tree marker
+6212,log workers
+6213,charcoal makers and related workers
+6213,charcoal burner
+6213,charcoal maker
+6214,minor forest product gatherers
+6214,rattan gatherer
+6214,wild honey and beeswax gatherer
+6214,wild mushroom gatherer
+6214,wild orchids gatherer
+6221,milkfish and tilapia producers
+6221,bangus farm producer
+6221,bangus farmer
+6221,tilapia farm producer
+6221,tilapia farmer
+6221,fish farmer
+6221,fish hatchery manager
+6221,seafood farmer
+6221,fish pond operator
+6222,seaweeds producers
+6222,agar-agar producers
+6222,carrageenan producers
+6222,seaweed cultivator
+6222,seaweed farmer
+6223,prawn producers
+6223,prawn farm cultivator
+6223,deep sea fishing master
+6224,oysters and mussels producers
+6224,mussel cultivator
+6224,mussel farmer
+6224,oyster cultivator
+6224,oyster farmer
+6225,other aqua products producers
+6225,algae cultivator
+6225,"aquarium fish farm operator (goldfish, corals, etc.)"
+6225,fish hatchery/nursery farm operator
+6225,frog raiser
+6225,pearl cultivator
+6225,fisherman
+6226,inland and coastal waters fishery workers
+6226,coastal fishery skipper
+6226,coastal water fishery workers
+6226,coastal waters fisher
+6226,coastal waters fishing vessel skipper
+6226,inland water fishery workers
+6226,inland waters fisher
+6226,coastal fisherman
+6226,fish pond worker
+6226,crab fisherman
+6226,hook and line fisherman
+6226,freshwater fisherman
+6226,net fisherman
+6227,deep-sea fishery workers
+6227,deep-sea fisher
+6227,trawler skipper
+6228,hunters and trappers
+6229,fishermen not elsewhere classified
+6229,fish catcher for aquarium
+6229,oyster diver
+6229,pearl diver
+6229,sea moss gatherer
+6229,commercial diver
+6310,subsistence crop farmers
+6310,subsistence crop farmer
+6310,subsistence gardener
+6310,subsistence vegetable grower
+6310,scavenging of leftover palay
+6320,subsistence livestock farmers
+6320,subsistence cattle farmer
+6330,subsistence mixed crop and livestock farmers
+6330,mixed subsistence farmer
+6340,"subsistence fishers, hunters, trappers and gatherers"
+6340,subsistence collector
+6340,subsistence diver
+6340,subsistence fisher
+6340,subsistence gatherer
+6340,gathering of fish
+7111,house builders
+7111,house builder
+7111,house construction helper
+7112,bricklayers and related workers
+7112,block layer
+7112,bricklayer
+7112,chimney builder
+7112,paver
+7112,refractory bricklayer
+7112,hollow blocks maker
+7113,"stonemasons, stone cutters, splitters and carvers"
+7113,granite cutter
+7113,monument mason
+7113,stone carver
+7113,stone cutter
+7113,stone lathe operator
+7113,stone polisher
+7113,stonemason
+7113,stone cutter using hand or hand-powered tools
+7113,stone polisher using hand or hand-powered tools
+7113,stone splitter using hand or hand-powered tools
+7113,construction mason
+7113,mason
+7113,mason laborer
+7113,building construction mason
+7113,marble worker
+7113,mason welder
+7113,stone splitter
+7114,"concrete placers, concrete finishers and related workers"
+7114,cement finisher
+7114,concrete finisher
+7114,concrete placer
+7114,concrete shutterer
+7114,reinforced concreter
+7114,terrazzo worker
+7115,carpenters and joiners
+7115,carpenter
+7115,door installer
+7115,finish carpenter
+7115,framer
+7115,joiner
+7115,wood shipwright
+7115,carpenters
+7115,house furniture carpenter
+7115,construction carpenter
+7115,nipa house builder
+7115,ceiling installer
+7115,repairman
+7115,pumpboat maker
+7115,on call carpenter
+7119,building frame and related trades workers not elsewhere classified
+7119,building wrecker
+7119,prefabricated building assembler
+7119,scaffolder
+7119,skilled demolition worker
+7119,steeplejack
+7121,roofers
+7121,asphalt roofer
+7121,composite materials roofer
+7121,metal roofer
+7121,roof fixer
+7121,slate roofer
+7121,thatcher
+7121,tile roofer
+7121,roofing contractor
+7122,floor layers and tile setters
+7122,carpet layer
+7122,floor layer
+7122,floor tiler
+7122,marble setter
+7122,parquetry worker
+7122,tile setter
+7122,wall tiler
+7122,wall and floor tiler
+7122,vinyl installer
+7123,plasterers
+7123,dry wall plasterer
+7123,fibrous plasterer
+7123,ornamental plasterer
+7123,plasterer
+7123,solid plasterer
+7123,stucco plasterer
+7124,insulation workers
+7124,acoustic insulation worker
+7124,boiler and pipe insulation worker
+7124,insulation installer
+7124,insulation worker
+7124,refrigeration and air-conditioning equipment insulation worker
+7124,aluminum installer
+7125,glaziers
+7125,autoglazier
+7125,building glazier
+7125,glass decorator
+7125,glazier fabricator
+7125,leaded-glass glazier
+7125,plate-glass fitter
+7125,roofing glazier
+7125,vehicle glazier
+7125,glass installer
+7126,plumbers and pipe fitters
+7126,aircraft pipe and tube fitter
+7126,drain technician
+7126,gas fitter
+7126,gas pipe fitter
+7126,marine pipe fitter
+7126,pipe fitter
+7126,pipe layer
+7126,pipeline inspector
+7126,plumber
+7126,ventilation pipe fitter
+7126,plumbers and pipe filters
+7126,plumbing contractor
+7126,water tank repairers
+7127,air conditioning and refrigeration mechanics
+7127,air conditioning equipment mechanic
+7127,air duct installer
+7127,refrigeration mechanic
+7127,air conditioning installer
+7127,air conditioning technician
+7127,air conditioning maintenance
+7131,painters and related workers
+7131,building painter
+7131,construction painter
+7131,house painter
+7131,paperhanger
+7131,painter laborer
+7131,paint mixer operator
+7132,spray painters and varnishers
+7132,aircraft painter
+7132,car painter
+7132,furniture spray painter
+7132,manufactured articles painter
+7132,manufactured articles varnisher
+7132,upholstery painter
+7132,varnisher
+7132,automotive painter
+7132,vehicle painter
+7132,buses painter
+7132,truck painter
+7133,building structure cleaners
+7133,building exteriors cleaner
+7133,building exteriors sandblasters
+7211,metal molders and coremakers
+7211,car parts molder
+7211,coremaker
+7211,filler metal molder
+7211,metal bench molder
+7211,metal castings molder
+7211,metal mold maker
+7212,welders and flame cutters
+7212,auto body welder
+7212,brazier
+7212,construction welder
+7212,"electric arc welder, machine"
+7212,electric welder
+7212,flux-cored arc welder
+7212,gas tungsten arc welder
+7212,orbital welder
+7212,pipe welder
+7212,resistance welder
+7212,shielded metal arc welder
+7212,thermite welder
+7212,welder
+7212,welder construction
+7212,welder helper
+7213,sheet metal workers
+7213,aircraft sheet metal worker
+7213,boilersmith
+7213,coppersmith
+7213,ornamental sheet metal worker
+7213,panel beater
+7213,plate metal worker
+7213,sheet metal marker
+7213,tinsmith
+7213,vehicle sheet metal worker
+7213,tinsmithing
+7213,metal worker
+7213,steel laborer
+7213,metal furniture assembler
+7214,structural metal preparers and erectors
+7214,constructional steel erector
+7214,iron works fabricator
+7214,metal shipwright
+7214,pneumatic riveter
+7214,reinforcing iron worker
+7214,riveter
+7214,ship plater
+7214,structural metal erector
+7214,structural metal marker
+7214,structural metal preparer
+7214,steelman
+7215,riggers and cable splicers
+7215,aircraft rigger
+7215,cable and rope splicer
+7215,gas-drilling rigger
+7215,hoisting equipment rigger
+7215,oil-drilling rigger
+7215,ship rigger
+7215,suspension bridge cable worker
+7215,theatrical rigger
+7215,tower rigger
+7221,"blacksmiths, hammersmiths, and forging press workers"
+7221,blacksmith
+7221,drop-hammer worker
+7221,forging press worker
+7221,hammersmith
+7221,metal former
+7221,wire drawer
+7222,tool makers and related workers
+7222,die maker
+7222,gauge maker
+7222,gunsmith
+7222,jig maker
+7222,locksmith
+7222,metal marker
+7222,metal patternmaker
+7222,patternmaker
+7222,toolmaker
+7223,metal working machine tool setters and operators
+7223,boring machine operator
+7223,casting machine operator
+7223,machine tool operator
+7223,machine tool setter
+7223,machine tool setter-operator
+7223,metal turner
+7223,metal working drilling machine setter-operator
+7223,metal working honing machine setter-operator
+7223,metal working lathe setter-operator
+7223,metal working machine setter-operator
+7223,metal working milling machine setter-operator
+7223,metal working numerical control machine setter-operator
+7223,metal working planning machine setter-operator
+7223,metal working precision grinding-machine setter-operator
+7223,rivet production machine operator
+7223,tool production machine operator
+7223,machine fabricator
+7224,"metal polishers, wheel grinders and tool sharpeners"
+7224,cutting instrument sharpener
+7224,knife sharpener
+7224,metal buffer
+7224,metal finisher
+7224,metal grinder
+7224,metal polisher
+7224,metal wheel-grinder
+7224,saw repairer
+7224,saw sharpener
+7224,textile carding machine grinder
+7224,tool grinder
+7224,tool sharpener
+7231,motor vehicle mechanics and repairers
+7231,automotive brakes systems service technician
+7231,automotive mechanic
+7231,moped repairer
+7231,motor truck mechanic
+7231,motor vehicle engine and fuel systems service technician
+7231,motor vehicle engine fitter
+7231,motor vehicle mechanic
+7231,motor vehicle mechatronics service technician
+7231,motor vehicle repairer
+7231,motor vehicle service technician
+7231,motorcycle mechanic
+7231,motorized rickshaw mechanic
+7231,road transport diesel fitter
+7231,small engine mechanic
+7231,train mechanic
+7231,motor mechanic
+7231,motorcycle repairer
+7231,truck mechanic
+7231,car repairer
+7231,surplus vehicle assembler
+7231,automotive repairer
+7231,helper mechanic
+7232,aircraft engine mechanics and repairers
+7232,aeromechanic
+7232,aircraft airframes maintenance engineer
+7232,aircraft engine fitter
+7232,aircraft engines maintenance engineer
+7232,aircraft maintenance assistant
+7232,aircraft maintenance supervisor
+7232,aircraft mechanic
+7232,aircraft pneudraulic systems mechanic
+7232,aircraft powerplant mechanic
+7232,aircraft restorer
+7232,aircraft service technician
+7232,airframe and power plant mechanic
+7232,airframe mechanic
+7232,aviation maintenance technician
+7232,helicopter mechanic
+7232,jet engine mechanic
+7232,rocket engine component mechanic
+7233,agricultural and industrial machinery mechanics and repairers
+7233,agricultural machinery erector-installer
+7233,agricultural machinery fitter
+7233,agricultural machinery greaser
+7233,agricultural machinery mechanic
+7233,agricultural machinery oiler
+7233,construction machinery mechanic
+7233,construction machinery repairer
+7233,diesel engine mechanic (except motor vehicle)
+7233,earth-moving equipment fitter
+7233,farm machinery mechanic
+7233,farm machinery repairer
+7233,farm tractor mechanic
+7233,heavy equipment mechanic
+7233,hydraulic mechanic
+7233,industrial machinery erector-installer
+7233,industrial machinery fitter
+7233,industrial machinery greaser
+7233,industrial machinery oiler
+7233,industrial plant mechanic
+7233,industrial sewing machine mechanic
+7233,loomfixers
+7233,marine craft mechanic
+7233,marine engine fitter
+7233,marine machinery mechanic
+7233,metalworking machine-tool fitter
+7233,metalworking machine-tool mechanic
+7233,mining machinery fitter
+7233,mining machinery mechanic
+7233,mining machinery repairer
+7233,plant maintenance mechanic
+7233,power plant mechanic
+7233,printing machinery fitter
+7233,printing machinery mechanic
+7233,ship fitter
+7233,stationary engine fitter
+7233,stationary engine repairer
+7233,steam-engine mechanic
+7233,textile machinery fitter
+7233,train engine fitter
+7233,train engine repairer
+7233,turbine fitter
+7233,turbine mechanic
+7233,woodworking machinery fitter
+7233,woodworking machinery mechanic
+7233,industrial machinery mechanic
+7233,production machine maintenance
+7233,maintenance staff and operator of mechanical drier
+7234,bicycle and related repairers
+7234,bicycle mechanic
+7234,bicycle repairer
+7234,perambulator repairer
+7234,wheelchair repairer
+7311,precision-instrument makers and repairers
+7311,cannon-pinion adjuster
+7311,instrument/meteorological maker
+7311,"maker and repairer, instrument/surgical"
+7311,optical instrument maker
+7311,optical instrument repairer
+7311,photographic equipment repairer
+7311,precision instrument assembler
+7311,precision instrument maker
+7311,precision instrument repairer
+7311,surgical instrument maker
+7311,watch and clock assembler
+7311,watch and clock repairer
+7311,watchmaker
+7311,precision-instrument maker
+7311,surgical instruments maker
+7311,watch repairer
+7312,musical instrument makers and tuners
+7312,accordion maker
+7312,brass instrument maker
+7312,brass instrument repairer
+7312,metal wind instrument maker
+7312,musical instrument tuner
+7312,organ builder
+7312,piano maker
+7312,piano tuner
+7312,stringed instrument maker
+7312,woodwind instrument maker
+7313,jewellery and precious metal workers
+7313,jewelry enameller
+7313,gem cutter/faceter
+7313,gem setter
+7313,gold cutter
+7313,gold reclaimer
+7313,goldbeater
+7313,goldsmith
+7313,jeweler
+7313,"jewelry caster, by hand and machine"
+7313,jewelry engraver
+7313,"jewelry finishers, by hand and machine"
+7313,jewelry polisher
+7313,jewelry repairer
+7313,precious metal leaf maker
+7313,precious metal roller
+7313,silversmith
+7314,potters and related workers
+7314,abrasive wheel molder
+7314,brick and tile molder
+7314,clay extruding-press operator
+7314,decorators/lazers
+7314,potter
+7314,pottery and porcelain caster
+7314,pottery and porcelain die-presser
+7314,pottery and porcelain jiggerman
+7314,pottery and porcelain maker
+7314,pottery and porcelain modeler
+7314,"pottery and porcelain presser, hand"
+7314,pottery and porcelain thrower
+7315,"glass makers, cutters, grinders, and finishers"
+7315,glass blower
+7315,glass edge grinder
+7315,glass finisher
+7315,glass grinder
+7315,glass lens molder
+7315,glass polisher
+7315,glass scientific blower
+7315,glass tinter
+7315,glass tube bender
+7315,optical glass cutter
+7315,glass cutter
+7315,glass aluminum fabricator
+7315,mirror cutter
+7316,"sign writers, decorative painters, engravers and etchers"
+7316,brush painter
+7316,ceramics decorator
+7316,ceramics dipper
+7316,ceramics painter
+7316,ceramics spray painter
+7316,decorative painter
+7316,glass enameller
+7316,glass engraver
+7316,glass etcher
+7316,glass painter
+7316,glass sandblaster
+7316,hand dipper
+7316,"linoleum block engraver, hand"
+7316,lithographic stone engraver
+7316,metal engraving etcher
+7316,"metal printing die engraver, hand"
+7316,"metal printing plate engraver, hand"
+7316,"metal printing roller engraver, hand/machine"
+7316,mirror silverer
+7316,photoengraver
+7316,printing engraver
+7316,printing plate retoucher
+7316,"rubber and wood engraver, hand"
+7316,sign-maker
+7316,signwriter
+7317,"handicraft workers in wood, basketry and related materials"
+7317,basket maker
+7317,basketry weaver
+7317,"broom maker, hand"
+7317,brush maker
+7317,handicraft designer
+7317,handicraft model maker
+7317,"paper box maker, hand"
+7317,paper handicraft worker
+7317,rattan binder
+7317,reed weaving handicraft worker
+7317,wicker furniture maker
+7317,wood carver
+7317,wood cottage industry worker
+7317,wooden articles handicraft worker
+7317,bilao maker
+7317,handicraft wood
+7317,nipa maker
+7317,handicraft basker maker
+7317,abaca rope maker
+7317,woven mat maker (banig maker)
+7317,handicraft maker (gemstone tree)
+7317,bamboo craft maker
+7317,coconut broom maker
+7317,nipa weaver
+7317,necklace shell maker
+7317,suft board maker
+7317,stick broom maker
+7317,amakan maker
+7317,rattan weaver
+7318,"handicraft workers in textile, leather and related materials"
+7318,carpet handicraft worker
+7318,carpet weaver
+7318,cloth weaver
+7318,fabric examiner
+7318,fiber aide
+7318,fiber blender
+7318,fiber carder
+7318,fiber classer
+7318,fiber grader
+7318,fiber lapper
+7318,fiber mixer
+7318,fiber picker
+7318,fiber preparer
+7318,hand braid maker
+7318,hand crocheter
+7318,hand-operated machine knitter
+7318,jacquard loom cloth weaver
+7318,knitter
+7318,leather handicraft worker
+7318,loom threader
+7318,"net maker, hand"
+7318,"tapestry maker, hand"
+7318,textiles fiber comber
+7318,textiles fiber drawer
+7318,textiles fiber rover
+7318,textiles handicraft worker
+7318,thread and yarn spinner
+7318,tie dye maker
+7318,weaver
+7318,wool dryer
+7318,wool scourer
+7318,wool washer
+7318,textile handicraft worker
+7318,fiber knotting
+7318,leather gloves maker
+7318,gloves maker
+7318,net mender
+7319,handicraft workers not elsewhere classified
+7319,bar shampoo maker
+7319,handicraft candle-maker
+7319,metal toymaker
+7319,soap maker
+7319,stone articles handicraft worker
+7319,toymaker (except metal)
+7321,pre-press technicians
+7321,compositor
+7321,data scanner
+7321,desktop publishing operator
+7321,digitizer
+7321,electronic pre-press technician
+7321,linotype operator
+7321,monotype keyboard operator
+7321,photogravurist
+7321,photolithographer
+7321,printing plate maker
+7321,screen maker
+7321,screen printing plate mounter
+7321,typesetter
+7321,photogravure photographer
+7322,printers
+7322,block printer
+7322,"developer, black and white"
+7322,"developer, color"
+7322,digital press operator
+7322,digital printing operator
+7322,flexographic press operator
+7322,gravure press operator
+7322,large sheet-fed press operator
+7322,offset pressman
+7322,offset printing press operator
+7322,press roller maker
+7322,printing feeder operator
+7322,printing machine operator
+7322,printing quality inspector
+7322,rotogravure pressman
+7322,screen printer
+7322,screen printing press operator
+7322,silk-screen printer
+7322,silk-screen stencil cutter
+7322,small press operator
+7322,tarpaulin printer
+7322,textile printer
+7322,wallpaper printer
+7322,web press operator
+7322,print t-shirt
+7322,printing staff
+7322,t-shirt owner printer
+7323,print finishing and binding workers
+7323,binding bench worker
+7323,book binder
+7323,collator operator
+7323,cutter operator
+7323,foil stamp operator
+7323,folder operator
+7323,gatherer operator
+7323,multibinder operator
+7323,perfect binder operator
+7323,saddle stitch operator
+7323,small machine bindery worker
+7411,building and related electricians
+7411,building electrician
+7411,building repairs electrician
+7411,building wiring electrician
+7411,electrical inspector
+7411,electrician
+7411,industrial electrician
+7411,industrial wiring electrician
+7411,maintenance electrician
+7411,company electrician
+7411,general electrician
+7412,electrical mechanics and fitters
+7412,armature builder
+7412,auto electrician
+7412,automotive electrician
+7412,electric meter repairman
+7412,electric motor and generator fitter
+7412,electric motor repairman
+7412,electrical tester
+7412,electrical fitter (general)
+7412,electrical generator fitter
+7412,electrical mechanic
+7412,lift mechanic
+7412,plant electrician
+7412,transformer repairman
+7412,on call electrician
+7413,electrical line installers and repairers
+7413,cable jointers
+7413,cable puller
+7413,electric cable and line installer
+7413,electric cable jointer
+7413,electric power line worker
+7413,electrical line installer
+7413,technical lineman
+7413,lineman
+7413,lineman/electric power
+7413,ride maintenance mechanic
+7413,line cable installer
+7413,electrical repairman
+7413,solar panel installer
+7414,electric vehicle mechanics and repairers
+7414,electric vehicle (ev) mechanic
+7414,electric vehicle (ev) repairer
+7414,vehicle electrician
+7421,electronics mechanics and servicers
+7421,automated teller machines mechanic
+7421,avionics aircraft maintenance engineer
+7421,avionics technician
+7421,electronic equipment servicer
+7421,electronic mechanic
+7421,office equipment technician
+7421,office machinery fitter
+7421,office machines mechanic
+7421,photocopy machine technician
+7421,radio mechanic
+7421,reprographic equipment technician
+7421,television repairer
+7421,video electronics service/repairer
+7421,electronics mechanic
+7421,electronics mechanic and servicer
+7421,electronic repairer
+7421,appliances mechanic
+7421,tv repairers
+7421,cellphone repairer
+7421,mobile technician
+7422,information and communications technology installers and servicers
+7422,communication rigger
+7422,communications technician
+7422,communications technology servicer
+7422,computer equipment fitter
+7422,computer hardware installer
+7422,computer servicer/repairer
+7422,data and telecommunications cabler
+7422,electronic products inspector
+7422,electronic products tester
+7422,hardware technician
+7422,private automatic branch exchange (pabx) technician
+7422,radio equipment installer
+7422,telecommunication equipment installer
+7422,telecommunication equipment repairer
+7422,telecommunications line worker
+7422,telephone installer
+7422,telephone mechanic
+7422,telecommunications equipment repairer
+7422,internet installer
+7422,wifi installer
+7422,signal installer
+7511,"butchers, fishmongers, and related food preparers"
+7511,butcher
+7511,fish deboner
+7511,fish filleter
+7511,fish processing worker
+7511,fishmonger
+7511,meat cutter
+7511,slaughterer
+7511,chicken dresser and butcher
+7511,slaughter house laborer
+7511,meat processing laborer
+7511,chopper of lectchon manok
+7511,pig butcher
+7512,"bakers, pastry cooks, and confectionery makers"
+7512,baker
+7512,bread baker
+7512,cake decorator
+7512,chocolate maker
+7512,confectioner
+7512,kakanin maker
+7512,noodle maker
+7512,pastry maker
+7512,pastry-cook
+7512,cake maker
+7512,homemade baker
+7512,pandesal baker
+7512,donut maker
+7513,dairy products makers
+7513,butter maker
+7513,cheese maker
+7513,ice cream maker
+7513,sorbeted ice cream maker
+7514,"fruit, vegetable and related preservers"
+7514,chutney maker
+7514,food preserver
+7514,fruit pickler
+7514,fruit preserver
+7514,jam maker
+7514,oil expeller
+7514,vegetable pickler
+7514,vegetable preserver
+7514,atchara maker
+7514,banana chips maker
+7514,pineapple cannery
+7515,food and beverage tasters and graders
+7515,coffee taster
+7515,food grader
+7515,food taster
+7515,fruit grader
+7515,liquor taster
+7515,tea taster
+7515,vegetable grader
+7515,wine taster
+7516,tobacco preparers and tobacco products makers
+7516,cigar maker
+7516,cigarettes maker
+7516,snuff maker
+7516,tobacco blender
+7516,tobacco grader
+7516,tobacco stripper
+7516,tabacco sorter
+7516,tabacco laborer
+7516,local tabacco maker
+7521,wood treaters
+7521,dry kiln operator
+7521,lumber kiln operator
+7521,timber treating tank operator
+7521,veneer applier
+7521,veneer dryer tender
+7521,wood seasoner
+7521,wood treater
+7522,cabinet-makers and related workers
+7522,cabinet maker
+7522,cartwright
+7522,cooper
+7522,furniture cabinet-maker
+7522,marquetry inlayer
+7522,smoking wood pipe maker
+7522,wheelwright
+7522,wood patternmaker
+7522,wooden furniture finisher
+7522,wooden model maker
+7522,furniture and cabinet maker
+7522,wheel-wright
+7523,woodworking machine tool setters and operators
+7523,furniture production machine operator
+7523,precision woodworking sawyer
+7523,wood carving machine operator
+7523,wood production machine operator
+7523,wood products machine operator
+7523,wood turner
+7523,wood-planing machine setter-operator
+7523,wood-shaping machine setter-operator
+7523,woodworking lathe operator
+7523,woodworking machine setter
+7523,woodworking machine setter-operator
+7523,woodworking machine set-up operator
+7523,woodworking machine operator
+7523,wood carving laborer
+7523,wood furniture maker
+7531,"tailors, dressmakers, furriers and hatters"
+7531,dressmaker
+7531,fur grader
+7531,fur trimmer
+7531,furrier
+7531,hatter
+7531,milliner
+7531,tailor
+7531,dress sewer
+7531,uniform sewer
+7531,buttonhole maker
+7532,garment and related patternmakers and cutters
+7532,fur patternmaker
+7532,garment cutter
+7532,garment marker
+7532,garment patternmaker
+7532,glove cutter
+7532,hat and cap patternmaker
+7532,leather cutter
+7532,leather patternmaker
+7532,textile cutter
+7532,textile patternmaker
+7532,pattern makers
+7532,garments cutter
+7533,"sewing, embroidery and related workers"
+7533,doormat maker
+7533,embroiderer
+7533,"fur sewer, hand"
+7533,glove sewer
+7533,rug maker
+7533,stitcher
+7533,stuffed toy maker
+7533,umbrella maker
+7533,sewer
+7533,machine sewer operator
+7533,skilled sewer
+7533,dress sewer repairer
+7533,chrochet maker
+7533,computer embroidery operator
+7534,upholsterers and related workers
+7534,furniture upholsterer
+7534,mattress maker
+7534,orthopedic upholsterer
+7534,vehicle upholsterer
+7534,upholstery
+7535,"pelt dressers, tanners and fellmongers"
+7535,fellmonger
+7535,hide grader
+7535,hide splitter
+7535,leather currier
+7535,leather stainer
+7535,pelt dyer
+7535,pelt grader
+7535,skin grader
+7535,tanner
+7535,pelt dresser
+7536,shoemakers and related workers
+7536,cobbler
+7536,footwear cutter
+7536,footwear finisher
+7536,footwear laster
+7536,footwear patternmaker
+7536,footwear repairer
+7536,leather goods maker
+7536,leather shoemaker
+7536,orthopedic footwear maker
+7536,orthopedic shoemaker
+7536,saddle and harness maker
+7536,saddler
+7536,shoemaker
+7536,shoe sewing
+7536,slipper maker
+7536,shoes repairer
+7536,shoes maker
+7541,underwater divers
+7541,salvage frogman
+7541,underwater welder
+7541,underwater worker
+7542,shotfirers and blasters
+7542,blaster
+7542,powder monkey
+7542,powderman
+7542,shotfirer
+7543,product graders and testers
+7543,product grader
+7543,quality inspector
+7543,wool classer
+7544,fumigators and other pest and weed controllers
+7544,fumigator
+7544,pest controller
+7544,weed controller
+7549,craft and related workers not elsewhere classified
+7549,flower arranger
+7549,optical lens finisher
+7549,optical lens molder
+8111,miners and quarriers
+8111,bogger operator
+8111,continuous miner operator
+8111,drilling machine operator
+8111,jumbo operator
+8111,mining dragline operator
+8111,mining driller
+8111,mining plant operator
+8111,mining roof bolter
+8111,miner
+8111,quarrier
+8111,gold miner
+8111,gold mining laborer
+8112,mineral and stone processing plant operators
+8112,coal washer
+8112,crushing machine operator
+8112,cutting machine operator
+8112,gold precipitator
+8112,grinding machine operator
+8112,mineral machine operator
+8112,mineral or stone processing crusher operator
+8112,mineral processing flotation worker
+8112,mineral-processing operator
+8112,minerals milling machine operator
+8112,silver precipitator
+8112,splitting machine operator
+8112,stone cutting or processing machine operator
+8112,stone machine operator
+8112,stone processing machine operator
+8113,well drillers and borers and related workers
+8113,artesian well driller
+8113,bore sinker
+8113,boring equipment operator
+8113,derrick operator
+8113,derrickman
+8113,developmental driller
+8113,directional driller
+8113,drilling plant operator
+8113,drilling rig operator
+8113,oil or gas well driller
+8113,power-tong operator
+8113,toolpusher
+8113,tourpusher
+8113,well sinker
+8113,oil and gas well driller
+8113,well driller
+8114,"cement, stone and other mineral products machine operators"
+8114,cast-concrete products machine operator
+8114,cast-stone products machine operator
+8114,cement production plant operator
+8114,concrete finishing machine operator
+8114,concrete production machine operator
+8114,concrete stone fabricator
+8114,industrial diamond polishing machine operator
+8114,mineral ore processing plant operator
+8114,stone polishing machine operator
+8114,stone products machine operator
+8114,cast stone production machine operator
+8121,metal processing plant operators
+8121,aluminum cutting machine operator
+8121,annealer
+8121,ladle pourer
+8121,metal drawing machine operator
+8121,metal extruding machine operator
+8121,metal extrusion plant operator
+8121,metal hardening furnace operator
+8121,metal heat treating operator
+8121,steel roller
+8122,"metal finishing, plating and coating machine operators"
+8122,metal coating machine operator
+8122,metal finishing machine operator
+8122,metal painting machine operator
+8122,metal plating machine operator
+8122,metal polishing machine operator
+8131,chemical products plant and machine operators
+8131,candle production machine operator
+8131,chemical and related processes kiln operator
+8131,explosive products machine operator
+8131,pharmaceutical and toiletry products machine operators
+8132,photographic products machine operators
+8132,colored film developer
+8132,darkroom technician
+8132,enlarging machine operator
+8132,photograph developing machine operator
+8132,photograph enlarger
+8132,photograph printer
+8132,photographic film machine operator
+8132,photographic film printer
+8132,photographic plate production machine operator
+8132,photographic processor
+8141,rubber products machine operators
+8141,latex worker
+8141,rubber extruding machine operator
+8141,rubber milling machine operator
+8141,rubber molder
+8141,rubber products machine operator
+8141,tire maker
+8141,tire production machine operator
+8141,tire repairer
+8141,vulcanizer
+8141,rubber machine operator
+8141,vulcanizing shop owner
+8142,plastic products machine operators
+8142,optic fiber drawer
+8142,plastic cable making machine operator
+8142,plastic extrusion machine operator
+8142,plastic grinding machine operator
+8142,plastic molder
+8142,plastic products machine operator
+8142,plastics boat builder
+8142,plastics bottle blowing machine operator
+8142,plastics laminated press operator
+8142,plastics molding machine operator
+8142,plastic machine operator
+8143,paper products machine operator
+8143,cardboard products machine operator
+8143,envelope and paper bag production machine operator
+8143,paper box production machine operator
+8143,paper mache molder
+8151,"fiber preparing, spinning and winding machine operators"
+8151,fiber combining machine operator
+8151,fiber preparing machine operator
+8151,synthetic fiber spinning machine operator
+8151,textile fiber drawing-frame machine operator
+8151,thread and yarn spinning machine operator
+8151,thread and yarn twisting machine operator
+8151,thread and yarn winding machine operator
+8151,textile fiber combing machine operator
+8152,weaving and knitting machine operators
+8152,carpet weaving machine operator
+8152,crocheting machine operator
+8152,jacquard card cutter
+8152,knitting machine operator
+8152,knitting-machine setter
+8152,lace production machine operator
+8152,loom threading machine operator
+8152,net production machine operator
+8152,warping beam machine operator
+8152,weaving machine operator
+8152,pinya weaver
+8153,sewing machine operators
+8153,embroidery machine operator
+8153,sewing machine operator
+8154,"bleaching, dyeing and fabric cleaning machine operators"
+8154,bleaching machine operator
+8154,dyeing machine operator
+8154,fabric bleaching machine operator
+8154,textile dyeing machine operator
+8154,textile fulling-mill operator
+8154,textile shrinking machine operator
+8155,fur and leather preparing machine operators
+8155,hide dehairing machine operator
+8155,leather staining machine operator
+8155,tanning machine operator
+8156,shoemaking and related machine operators
+8156,footwear production machine operator
+8156,leather goods production machine operator
+8156,shoe production machine operator
+8157,laundry machine operators
+8157,dry-cleaning machine operator
+8157,laundry machine operator
+8157,laundry pressing machine operator
+8157,laundry hub helper
+8157,laundrer
+8157,laundry shop owner
+8157,machine launderer
+8159,"textile, fur and leather products machine operators not elsewhere classified"
+8159,braid making machine operator
+8159,fur patternmaking machine operator
+8159,hat blocking machine operator
+8159,hat making machine operator
+8159,tent making machine operator
+8159,textile patternmaking machine operator
+8160,food and related products machine operators
+8160,bakery products machine operator
+8160,bread production machine operator
+8160,chocolate production machine operator
+8160,cigar production machine operator
+8160,cigarettes production machine operator
+8160,dairy products machine operator
+8160,fish processing machine operator
+8160,meat processing machine operator
+8160,milk processing machine operator
+8160,noodle production machine operator
+8160,sugarcane processing machine operator
+8160,tobacco processing machine operator
+8160,cigarette production machine operator
+8160,ice plant machine operator
+8160,food machine operator
+8160,rice mill machine operator
+8160,seamer machine operator
+8171,pulp and papermaking plant operators
+8171,paper pulp beater operator
+8171,paper pulp digester operator
+8171,papermaking plant operator
+8171,pulp and paper calendar operator
+8171,pulp and paper grinder operator
+8171,pulp and paper sheeter operator
+8171,repulper operator
+8171,wood grinding machine operator
+8172,wood processing plant operators
+8172,circular saw operator
+8172,edge sawyer
+8172,log cut-off operator
+8172,plywood core laying machine operator
+8172,plywood press operator
+8172,sawmill operator
+8172,sawmill planer operator
+8172,sawmill sawyer
+8172,sawmill trimmer operator
+8172,veneer cutting lathe operator
+8172,veneer lathe operator
+8172,wood processing plant sawyer
+8172,wood processing plant operator
+8172,chainsaw operator
+8181,glass and ceramics plant operators
+8181,brick kiln operator
+8181,ceramics kiln operator
+8181,ceramics painting machine operator
+8181,ceramics production machine operator
+8181,clay mixing machine operator
+8181,clay slips production machine operator
+8181,extruding clay press operator
+8181,float-glass bath kiln operator
+8181,glass blowing machine operator
+8181,glass cutting machine operator
+8181,glass finishing machine operator
+8181,glass mixing machine operator
+8181,glass production furnace operator
+8181,glass-fiber production machine operator
+8181,glaze production machine operator
+8181,plate-glass rolling machine operator
+8181,pottery kiln operator
+8181,tile kiln operator
+8181,brick and tile kiln operator
+8181,"brick, pottery or tiles kiln operator"
+8181,glass painting machine operator
+8181,pottery and porcelain kiln operator
+8181,glass machine operator
+8182,steam engine and boiler operators
+8182,boiler plant fireman
+8182,boiler tender
+8182,ships' boiler operator
+8182,stationary engineer
+8182,steam boiler plant operator
+8182,steam engine operator
+8182,stoker
+8182,boiler operator
+8183,"packing, bottling and labelling machine operators"
+8183,bottle filler
+8183,bottling machine operator
+8183,canning machine operator
+8183,labelling machine operator
+8183,packing machine operator
+8183,wrapping machine operator
+8183,bottling of paints
+8183,packing laborer
+8189,stationary plant and machine operators not elsewhere classified
+8189,cable and rope splicing machine operator
+8211,mechanical machinery assemblers
+8211,agricultural machinery assembler
+8211,aircraft assembler
+8211,aircraft assembly-line machine operator
+8211,automotive assembly-line machine operator
+8211,engine assembler
+8211,engine installer
+8211,gearbox assembler
+8211,industrial machinery assembler
+8211,truck bench fitter
+8211,turbine assembler
+8211,vehicle assembler
+8211,aircraft engine assembler
+8211,"machine-operator, drilling/metal"
+8211,"machine-operator, grinding/metal"
+8211,"machine-operator, machine tool"
+8211,mechanical machinery assembler
+8211,motor vehicle engine assembler
+8211,motor parts assembler
+8212,electrical and electronic equipment assemblers
+8212,armature assembler
+8212,coil winding machine operator
+8212,electrical assembler
+8212,electrical equipment assembler
+8212,electromechanical equipment assembler
+8212,electronic equipment assembler
+8212,printed circuit board etcher
+8212,telephone assembler
+8212,television assembler
+8212,watch assembler
+8212,electrical devices assembler
+8212,production electronic assembler
+8212,main boar assembler
+8212,wire assembler
+8212,electronic assembler
+8212,camera assembler
+8219,assemblers not elsewhere classified
+8219,ammunition assembler
+8219,bicycle assembler
+8219,box builder
+8219,door assembler
+8219,eyeglass frame assembler
+8219,faucets assembler
+8219,jewelry assembler
+8219,knife assembler
+8219,leather products assembler
+8219,luggage finisher
+8219,metal products assembler (except mechanical)
+8219,musical instruments assembler
+8219,paperboard products assembler
+8219,pen and pencil assembler
+8219,photographic equipment assembler
+8219,plastic products assembler
+8219,plastic toy assembler
+8219,rubber products assembler
+8219,sun-blinds assembler
+8219,textile products assembler
+8219,thermos bottle assembler
+8219,wood furniture finisher
+8219,wood products assembler
+8219,wood and related products assemblers
+8311,locomotive engine drivers
+8311,metropolitan railway driver
+8311,train driver
+8312,"railway brake, signal, and switch operators"
+8312,railway braker
+8312,railway shunter
+8312,railway signaler
+8321,motorcycle drivers
+8321,dispatch rider
+8321,electric tricycle (e-trike) driver
+8321,habal-habal driver
+8321,motorcycle rider
+8321,motorcyclist
+8321,motorized rickshaw driver
+8321,motorized tricycle driver
+8321,motorcycle rider (conventional)
+8321,tricycle driver (conventional)
+8321,tricycle operator driver
+8321,motorcycle driver
+8321,delivery rider
+8321,skylab driver
+8321,motorcab driver
+8321,motorbike rider
+8321,bao bao driver
+8321,part time motorcycle driver
+8321,motorcycle courier rider
+8321,sidecar driver
+8321,payong payong driver
+8322,"car, taxi, and van drivers"
+8322,family driver
+8322,jeepney driver
+8322,multicab driver
+8322,parking valet
+8322,personal driver
+8322,school van driver
+8322,ambulance driver
+8322,company driver
+8322,taxi driver (conventional)
+8322,van driver
+8322,van driver (conventional)
+8322,municipal driver
+8322,school van service driver
+8322,car rental dirver
+8322,congresswoman driver
+8322,egg delivery van driver
+8322,logistic driver
+8322,patrol driver
+8322,delivery driver
+8322,rescue vehicle driver
+8322,armour driver
+8322,private driver
+8322,kima glass driver
+8322,office driver
+8322,government driver
+8322,service driver
+8322,barnagay driver
+8322,uv express driver
+8322,suv driver
+8322,town ace driver
+8323,tnvs motorcycle drivers
+8323,tnvs motorcycle driver
+8323,tnvs tricycle driver
+8323,grab food driver
+8323,maxim rider
+8323,angkas rider
+8323,food panda rider
+8323,lalamove rider
+8323,lazada delivery rider
+8323,shoppee delivery rider
+8323,joyride rider
+8323,move it rider
+8324,tnvs car drivers
+8324,grab car driver
+8324,indrive car dirver
+8324,maxim car driver
+8324,green gsm car driver
+8325,tnvs taxi drivers
+8325,taxi drivers (booking)
+8326,tnvs van drivers
+8326,van for hire driver
+8326,lalamove van driver
+8331,bus and tram drivers
+8331,bus driver
+8331,motor coach driver
+8331,school bus driver
+8331,tram driver
+8331,truck driver
+8331,company bus driver
+8332,heavy truck and lorry drivers
+8332,concrete mixer driver
+8332,dump truck driver
+8332,fire truck driver
+8332,garbage truck driver
+8332,heavy truck driver
+8332,road train driver
+8332,trailer truck driver
+8332,heavy truck equipment driver
+8332,delivery truck driver
+8332,coconut truck driver
+8332,lorry truck driver
+8341,mobile farm and forestry plant operators
+8341,agricultural machinery operator
+8341,harvester operator
+8341,logging plant operator
+8341,motorized farm equipment operator
+8341,motorized forestry equipment operator
+8341,timber carrier driver
+8341,tractor driver
+8341,tree faller operator
+8342,earthmoving and related plant operators
+8342,backhoe operator
+8342,bulldozer operator
+8342,construction grader and scraper operator
+8342,excavator operator
+8342,front-end loader operator
+8342,pile-driver operator
+8342,road surface laying machinery operator
+8342,road-roller operator
+8343,"crane, hoist, and related plant operators"
+8343,cable car operator
+8343,chair-lift operator
+8343,crane operator
+8343,funicular driver
+8343,hoist operator
+8343,mine cage operator
+8343,ski-lift operator
+8343,winch operator
+8343,"crane, hoist and related plant operators"
+8344,lifting truck operators
+8344,forklift truck driver
+8344,forklift truck operator
+8344,forklift operator
+8350,ship's deck crews and related workers
+8350,bargeman
+8350,boatman
+8350,boatswain
+8350,ferry hand
+8350,lifeboat coxswain
+8350,reefer repairman
+8350,sailor
+8350,seaman
+8350,tug hand
+8350,yacht crew
+8350,boat crew
+8350,boat captain
+8350,boat operator
+8350,motorboat crew
+8350,pump boat operator
+8350,speed boat operator
+9111,domestic cleaners and helpers
+9111,"domestic helper/katulong sa bahay, all around"
+9111,domestic charworker
+9111,domestic cleaner
+9111,domestic helper or domestic worker (kasambahay)
+9111,domestic helper
+9111,housemaid
+9111,houseboy
+9111,on call domestic cleaner
+9111,house helper
+9111,house keeper
+9111,on call house cleaner
+9112,"cleaners and helpers in offices, hotels and other establishments"
+9112,aircraft cleaner
+9112,hotel cleaner
+9112,janitor (unskilled)
+9112,lavatory attendant
+9112,office cleaner
+9112,office utility worker
+9112,restaurant and food chain cleaner
+9112,room attendant
+9112,train and bus cleaner
+9112,establishments utility worker
+9112,church cleaner
+9112,establishment cleaner
+9112,resort cleaner
+9112,office janitor
+9112,hotel attendant
+9112,hospital cleaners
+9112,janitress
+9112,utility helper
+9112,school cleaner
+9112,barangay utility
+9112,facility cleaner
+9112,boarding house cleaner
+9112,roomboy
+9121,hand launderers and pressers
+9121,"dry-cleaner, hand"
+9121,dry-cleaning spotter
+9121,hand launderer
+9121,hand presser
+9121,ironer or presser
+9121,launderer
+9121,laundry assistant
+9122,vehicle cleaners
+9122,car detailer
+9122,"vehicle washer, hand"
+9122,car washer
+9123,window cleaners
+9123,window cleaner
+9129,other cleaning workers
+9129,carpet cleaner
+9129,cooling tower cleaner
+9129,graffiti cleaner
+9129,swimming pool cleaner
+9129,water blaster
+9129,aircon cleaner
+9211,crop farm laborers
+9211,eggplant farm helper
+9211,eggplant farm laborer
+9211,abaca helper
+9211,corn farm laborer
+9211,root crops farm helper
+9211,root crops farm laborer
+9211,coffee farm helper
+9211,coffee farm laborer
+9211,corn farmer helper
+9211,cassava farm helper
+9211,cassava farm laborer
+9211,corn farm helper
+9211,corn laborer
+9211,corn harvester
+9211,corn farmer laborer
+9211,carrot farm laborer
+9211,chinese cabbage farm helper
+9211,carrot farm helper
+9211,camote farm laborer
+9211,camote farm helper
+9211,palay crop farm laborer
+9211,palay farm helper
+9211,palay farm laborer
+9211,calamansi farm laborer
+9211,calamansi farm helper
+9211,beans farm laborer
+9211,cabbage farm helper
+9211,cabbage farm laborer
+9211,broccoli farm laborer
+9211,broccoli farm helper
+9211,crop farm laborer
+9211,banana farm laborer
+9211,cane planter
+9211,coconut farm caretaker
+9211,caretaker coconut farm
+9211,coconut farmer laborer
+9211,coconut farmer helper
+9211,coconut farm helper
+9211,coconut farm laborer
+9211,fruit picker
+9211,rice farm laborer
+9211,banana farm helper
+9211,vegetable picker
+9211,crop farm helper
+9212,livestock farm laborers
+9212,chicken farm helper
+9212,chicken farm laborer
+9212,carabao farm laborer
+9212,livestock farm laborer
+9212,poultry farm laborer
+9212,hog farm laborer
+9212,dairy farm laborer
+9212,cockfighting raiser
+9212,cockfighting farm helper
+9212,piggery helper
+9212,piggery farm laborer
+9212,cattle raiser
+9212,gamefowl farm laborer
+9213,mixed crop and livestock farm laborers
+9213,farm helper
+9213,farm laborer
+9213,mixed crop and livestock farm laborer
+9214,garden and horticultural laborers
+9214,garden laborer
+9214,horticultural laborer
+9214,lawn mower
+9214,nursery laborer
+9214,gardener
+9214,garden helper
+9214,garden land scaper
+9215,forestry laborers
+9215,axeman/woman
+9215,forestry laborer
+9215,tree planter
+9215,lumber laborer
+9215,logging laborer
+9216,fishery and aquaculture labore
+9216,aquaculture laborer
+9216,fishery laborer
+9216,fishpond laborer
+9216,prawn hatchery worker
+9216,fishpond helper
+9216,fisherman laborer
+9216,coastal fisherman helper
+9216,crab fishing helper
+9216,deep sea fishery helper
+9216,fishcage feeder
+9311,mining and quarrying laborers
+9311,gold panner
+9311,mining laborer
+9311,quarry laborer
+9311,gold miner laborer
+9311,gold miner helper
+9311,quarryman
+9311,gravel and sand laborer
+9312,civil engineering laborers
+9312,road construction (sub contractor)
+9312,road construction worker
+9312,road construction laborer
+9312,civil engineering construction laborer
+9312,dams maintenance laborer
+9312,earthmoving laborer
+9312,caminero
+9312,highway maintenance
+9312,irrigation construction laborer
+9312,post construction laborer
+9312,civil engineering laborer
+9312,runway maintenance
+9313,building construction laborers
+9313,bricklayer's assistant
+9313,demolition laborer
+9313,hod carrier
+9313,building/ housing construction laborer
+9313,building construction worker
+9313,building construction laborer
+9313,building work construction laborer
+9313,skilled building construction laborer
+9313,building construction helper
+9313,building construction safety officer
+9313,demolition worker
+9321,hand packers
+9321,food packer
+9321,hand labeler
+9321,hand packer
+9321,hand wrapper
+9321,fish canning labelling
+9321,vegetable packer
+9321,bread repacker
+9321,repacker
+9321,rubber plastic hand packer
+9321,carinderia food repacker
+9321,fish canning packer
+9321,factory repacker
+9329,manufacturing laborers not elsewhere classified
+9329,bottle sorter
+9329,factory hand
+9329,material handler
+9329,stacker
+9329,factory worker
+9329,sheller
+9329,picker
+9329,sander/polisher
+9329,stripper
+9329,banana peeler
+9329,coconut sheller
+9329,plant tender
+9329,coconut parer
+9329,t-shirt cutter
+9329,rice milling laborer
+9331,hand and pedal vehicle drivers
+9331,bicycle courier
+9331,cycle rickshaw driver
+9331,padyak driver
+9331,pedal vehicle driver
+9331,pedicab driver
+9331,rickshaw puller
+9331,sikad driver
+9331,bicycle rider (conventional)
+9331,pedal vehicle driver (conventional)
+9331,hand and pedal driver
+9331,skate driver
+9331,bicycle driver
+9332,drivers of animal-drawn vehicles and machinery
+9332,animal-drawn vehicle driver
+9332,animal train driver
+9332,kalesa driver (kutsero)
+9333,freight handlers
+9333,baggage handler
+9333,boat loader
+9333,freight handler
+9333,railway vehicle loader
+9333,road vehicle loader
+9333,stevedore (kargador)
+9333,warehouse porter
+9333,truck helper
+9333,loader
+9333,freight services assistant
+9333,market shipper
+9333,market loader
+9333,freight cardo laborer
+9333,cargo handler
+9334,shelf fillers
+9334,night filler
+9334,stock filler
+9334,stock handler
+9334,store helper
+9334,sari sari store helper
+9334,shelf filler
+9334,mini grocery helper
+9334,store filler
+9334,grocery store helper
+9335,tnvs bicycle drivers
+9411,fast food preparers
+9411,fast food cook
+9411,hamburger maker
+9411,pizza maker
+9411,short order cook
+9411,fast food preparer
+9412,kitchen helpers
+9412,carinderia helper
+9412,hand dishwasher
+9412,kitchen assistant
+9412,kitchen hand
+9412,kitchen helper
+9412,kitchen porter
+9412,kitchen steward
+9412,pantry attendant
+9412,snack haus or bar helper
+9412,dishwasher
+9412,kitchen crew
+9412,assistant cook
+9412,kitchen staff
+9510,street and related service workers
+9510,barker
+9510,car guard
+9510,car window washer
+9510,errand boy
+9510,leaflet distributor
+9510,shoe polisher
+9510,free newspaper distributor
+9520,street vendors
+9520,accesories ambulant vendor
+9520,rolling cart clothes vendor
+9520,slipper ambulant vendor
+9520,scap and tools vendor
+9520,ambulant flower vendor
+9520,souvenir items ambulant vendor
+9520,walis ting ting ambulant vendor
+9520,bag vendor
+9520,salt ambulant vendor
+9520,tarapal vendor
+9520,ambulant street vendor
+9520,native cake ambulant vendor
+9520,frozen food ambulant vendor
+9520,sipit ambulant vendor
+9520,kakanin ambulant vendor
+9520,egg rolling vendor
+9520,flower ambulant vendor
+9520,rolling store vendor (non-food)
+9520,balot ambulant vendor
+9520,fruit rolling vendor
+9520,vegetable rolling vendor
+9520,doormat vendor
+9520,tinapa ambulant vendor
+9520,fish ambulant vendor
+9520,ambulant vegetable vendor
+9520,street vendor
+9520,street non food vendor
+9520,ambulant non-food vendor
+9520,cigarette ambulant vendor
+9520,hawker
+9520,newspaper vendor
+9520,peddler
+9520,rug ambulant vendor
+9520,sampaguita ambulant vendor
+9520,street vendor (excluding food)
+9611,garbage and recycling collectors
+9611,dustman/woman
+9611,garbage collector
+9611,garbage dumper
+9611,recycling collector
+9611,refuse collector
+9611,scrap recycable collector
+9611,garbage segregator
+9611,junk shop helper
+9611,junk shop worker
+9611,scavenger
+9611,bottle collector
+9612,refuse sorters
+9612,garbage sorter
+9612,magbobote
+9612,mangangalakal
+9612,recycling worker
+9612,scrap merchant
+9612,waste picker
+9612,scrap buyer
+9612,plastic scavenger
+9612,bottle scavenger
+9613,sweepers and related laborers
+9613,market sweeper
+9613,metro aide
+9613,park sweeper
+9613,street sweeper
+9613,street ckeaner
+9613,barangay sweeper
+9613,barangay street cleaner
+9613,barangay street sweeper
+9613,street grass cutter
+9621,"messengers, package deliverers and luggage porters"
+9621,bellboy or bellgirl
+9621,deliverer
+9621,delivery helper
+9621,hotel porter
+9621,luggage porter
+9621,messenger
+9621,newspaper deliverer
+9621,package deliverer
+9621,post-runner
+9621,bagger
+9621,water delivery boy
+9621,grocery delivery man
+9621,liaison officer
+9621,market porter
+9621,vegetable porter
+9621,softdrink delivery worker
+9621,parcel delivery man
+9622,odd job persons
+9622,handyperson
+9622,odd-job person
+9623,meter readers and vending-machine collectors
+9623,meter reader
+9623,vending-machine collector
+9624,water and firewoods collector
+9624,firewood collector
+9624,water collector
+9624,firewood maker
+9624,firewood gatherer
+9629,elementary workers not elsewhere classified
+9629,cloak room attendant
+9629,fairground attendant
+9629,golf caddie
+9629,golf-range attendant
+9629,parking attendant
+9629,recreation facilities attendant
+9629,ticket collector
+9629,usher/usherette
+9629,ball boy
+110,commissioned armed forces officers
+110,admiral
+110,air commodore
+110,air force captain
+110,air force flight lieutenant
+110,air force group captain
+110,air force pilot officer
+110,air marshal
+110,armed forces officer cadet
+110,army brigadier
+110,army cadet officer
+110,army captain
+110,army colonel
+110,army general
+110,army lieutenant colonel
+110,army major
+110,army second lieutenant
+110,field marshal
+110,midshipman
+110,military flying officer
+110,military naval officer
+110,navy captain
+110,navy commander
+110,navy commodore
+110,navy lieutenant commander
+110,navy sublieutenant
+110,squadron leader
+110,wing commander
+210,non-commissioned armed forces officers
+210,army sergeant
+210,flight sergeant
+210,master sergeant
+210,military quartermaster
+210,navy boatswain
+210,sergeant major
+210,warrant officer
+310,"armed forces occupations, other ranks"
+310,air force corporal
+310,airman
+310,army corporal
+310,bombardier
+310,gunner
+310,infantryman/woman
+310,navy coxswain
+310,navy seaman
+310,paratrooper
+310,rifleman/woman
+310,cafgu
