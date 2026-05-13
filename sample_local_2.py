@@ -89,7 +89,7 @@ def normalize_text(text: str):
 # -------------------------------
 @st.cache_data
 def load_psoc():
-    df = pd.read_csv("C:/Users/USER/Downloads/psic-psoc-cow/listcode_2.csv", dtype=str)
+    df = pd.read_csv("listcode_2.csv", dtype=str)
     df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
     df["occupation_title"] = df["occupation_title"].fillna("")
     df["occupation_title_clean"] = df["occupation_title"].str.lower()
@@ -99,7 +99,7 @@ def load_psoc():
 @st.cache_data
 def load_mapping():
     map_df = pd.read_csv(
-        "C:/Users/USER/Downloads/psic-psoc-cow/psocpsiccow with description_group.csv",
+        "psocpsiccow with description_group.csv",
         dtype=str,
         low_memory=False
     )
